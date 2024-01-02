@@ -1,0 +1,20 @@
+name: CI
+
+on: [workflow_dispatch, pull_request, push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2  # Checks-out your repository
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Specify the Python version
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt  # Install packages from requirements.txt
+
+      - uses: fastai/workflows/nbdev-ci@master  # nbdev CI step

@@ -1,0 +1,9 @@
+pandas
+matplotlib
+xlrd
+openpyxl
+geopandas
+pycountry_convert
+pycountry
+seaborn
+adjustText

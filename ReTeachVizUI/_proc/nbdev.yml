@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ai-assisted-coding-v2"
+  site-url: "https://thq12345.github.io/ai-assisted-coding-v2"
+  description: "Final ReTeach Project for AI-Assisted Programming"
+  repo-branch: main
+  repo-url: "https://github.com/thq12345/ai-assisted-coding-v2"

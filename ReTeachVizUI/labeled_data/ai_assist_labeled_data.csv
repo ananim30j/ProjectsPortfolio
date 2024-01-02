@@ -1,0 +1,555 @@
+Text,Label,Confidence
+"Good morning class, today we are going to learn about nouns.",PRS,0.2620239853858948
+"A noun is a word that represents a person, place, thing, or idea.",NEU,0.2573947310447693
+Can anyone give me an example of a noun?,PRS,0.2536678314208984
+"That's right, 'dog' is a noun because it is a thing.",PRS,0.2526590526103973
+Let's write down some nouns in our notebooks.,PRS,0.2561188638210296
+"Now, let's talk about verbs. Does anyone know what a verb is?",PRS,0.2516203820705414
+"A verb is a word that describes an action, occurrence, or state of being.",NEU,0.2586123645305633
+Can someone give me an example of a verb?,PRS,0.2533991634845733
+"Great example, 'run' is a verb because it is an action.",PRS,0.2509360611438751
+"Now, let's write down some verbs in our notebooks.",PRS,0.2540577054023742
+"Next, we are going to learn about adjectives.",PRS,0.2515893876552582
+An adjective is a word that describes a noun.,NEU,0.261284202337265
+Can someone give me an example of an adjective?,PRS,0.2533233165740967
+"Exactly, 'beautiful' is an adjective because it describes a noun.",OTR,0.2530772686004638
+Let's write down some adjectives in our notebooks.,NEU,0.251897394657135
+"Now we are going to form sentences using nouns, verbs, and adjectives.",PRS,0.2535706460475921
+A sentence is a group of words that expresses a complete thought.,NEU,0.2548687756061554
+Let's build a sentence together. I'll start with a noun: 'The cat'.,PRS,0.2541625499725342
+Can someone add a verb to our sentence?,PRS,0.2557292878627777
+"Great, now our sentence is: 'The cat runs'.",PRS,0.25814089179039
+Can someone add an adjective to our sentence?,PRS,0.2559932768344879
+"Wonderful, our sentence is now: 'The fast cat runs'.",PRS,0.2568641006946563
+Let's write down some of our own sentences in our notebooks.,PRS,0.2590354382991791
+Now we are going to learn about punctuation.,PRS,0.2595160007476806
+Punctuation marks are symbols that help us to organize and structure sentences.,NEU,0.2578314542770386
+The period is a punctuation mark used to end a sentence.,PRS,0.2530196905136108
+The question mark is used at the end of a question.,PRS,0.2541202902793884
+The exclamation mark is used to express excitement or emphasis.,PRS,0.2513993382453918
+Can someone give me a sentence with an exclamation mark?,PRS,0.2559839785099029
+"Great job, that sentence definitely needed an exclamation mark!",PRS,0.2598823010921478
+Let's write down some sentences with different punctuation marks in our notebooks.,PRS,0.2517769336700439
+"Next, we are going to learn about pronouns.",PRS,0.2590710818767547
+A pronoun is a word that can take the place of a noun.,NEU,0.2545095980167389
+Can someone give me an example of a pronoun?,PRS,0.2542621493339538
+"That's right, 'he' is a pronoun because it can take the place of a noun.",PRS,0.2536927461624145
+Let's write down some pronouns in our notebooks.,PRS,0.2568056881427765
+"Now, we are going to practice using pronouns in sentences.",PRS,0.2556136548519134
+Let's build a sentence together. I'll start with a noun: 'The girl'.,PRS,0.2543470859527588
+Can someone replace the noun with a pronoun?,PRS,0.2537893950939178
+"Great, now our sentence is: 'She reads a book'.",PRS,0.2567214965820312
+Let's write down some of our own sentences using pronouns in our notebooks.,PRS,0.2554097473621368
+"Next, we are going to learn about adverbs.",PRS,0.2546911835670471
+"An adverb is a word that describes a verb, an adjective, or another adverb.",NEU,0.2608351707458496
+Can someone give me an example of an adverb?,PRS,0.2539209723472595
+"Exactly, 'quickly' is an adverb because it describes how an action is done.",NEU,0.251587837934494
+Let's write down some adverbs in our notebooks.,NEU,0.2521876096725464
+Now we are going to use adverbs in sentences.,PRS,0.2538437247276306
+Let's build a sentence together. I'll start with a verb: 'runs'.,PRS,0.2541142702102661
+Can someone add an adverb to our sentence?,PRS,0.2550835907459259
+"Great, now our sentence is: 'She runs quickly'.",PRS,0.2590517997741699
+Let's write down some of our own sentences using adverbs in our notebooks.,NEU,0.2529298663139343
+"Well done, everyone! You have learned a lot today.",PRS,0.2553454637527466
+Remember to practice using these new words in your writing.,NEU,0.2507087886333465
+"For homework, please write a short story using the words we learned today.",REP,0.2566758692264557
+"Make sure to include nouns, verbs, adjectives, and adverbs in your story.",NEU,0.2526102066040039
+Don't forget to use correct punctuation in your sentences.,NEU,0.2523954510688782
+I am looking forward to reading your stories.,REP,0.2943541407585144
+"Have a great day, and remember to keep practicing your English!",PRS,0.2629045844078064
+"Good morning class, today we are going to learn about different types of sentences.",PRS,0.2560785412788391
+The first type of sentence we will learn about is the declarative sentence.,PRS,0.2540194094181061
+A declarative sentence makes a statement or expresses an opinion.,NEU,0.2523638010025024
+Can anyone give me an example of a declarative sentence?,PRS,0.2548474967479706
+That's a perfect example! Declarative sentences end with a period.,PRS,0.2524088621139526
+"Next, we have interrogative sentences. These are sentences that ask a question.",REP,0.2527095675468445
+Interrogative sentences end with a question mark.,PRS,0.2539204061031341
+Can someone give me an example of an interrogative sentence?,PRS,0.2547778487205505
+Great job! That is indeed an interrogative sentence.,PRS,0.2518219947814941
+"Now, let's move on to imperative sentences. These sentences give a command or make a request.",NEU,0.2519906759262085
+"Imperative sentences often end with a period, but they can also end with an exclamation mark if they are urgent.",NEU,0.2551676034927368
+Can someone give me an example of an imperative sentence?,PRS,0.2530087232589721
+"Excellent! That sentence is giving a command, so it is an imperative sentence.",NEU,0.2512986660003662
+"Lastly, we have exclamatory sentences. These sentences express strong emotion.",NEU,0.2513923645019531
+Exclamatory sentences end with an exclamation mark.,PRS,0.2540480196475982
+Can someone give me an example of an exclamatory sentence?,PRS,0.2540704309940338
+"Wonderful! That sentence is showing strong emotion, so it is an exclamatory sentence.",OTR,0.2516169846057892
+"Now, let's write down examples of each type of sentence in our notebooks.",NEU,0.2518098950386047
+"Next, we are going to learn about prepositions.",PRS,0.2581007182598114
+Prepositions are words that show how nouns and pronouns relate to other words in a sentence.,NEU,0.2561866343021393
+Can someone give me an example of a preposition?,PRS,0.2539816498756408
+"Exactly, 'on' is a preposition because it shows the relationship between two words in a sentence.",PRS,0.2521954476833343
+Let's write down some prepositions in our notebooks.,PRS,0.255948930978775
+"Now, let's use prepositions to build sentences.",NEU,0.2530305087566376
+I'll start with a noun: 'The book'.,PRS,0.2551792860031128
+Can someone add a preposition to our sentence?,PRS,0.2561887800693512
+"Great, now our sentence is: 'The book on the table'.",PRS,0.2575861811637878
+Let's write down some of our own sentences using prepositions in our notebooks.,PRS,0.2535893321037292
+"Well done, everyone! You have learned a lot today.",PRS,0.2553454637527466
+Remember to practice using these new sentences in your writing.,OTR,0.2508166134357452
+"For homework, please write a paragraph using different types of sentences and prepositions.",PRS,0.2525596618652344
+"Make sure to use declarative, interrogative, imperative, and exclamatory sentences in your paragraph.",NEU,0.2538993954658508
+Don't forget to use prepositions to show relationships between words.,NEU,0.2564418911933899
+I am looking forward to reading your paragraphs.,PRS,0.2644377946853637
+"Have a great day, and remember to keep practicing your English!",PRS,0.2629045844078064
+"Good morning class, today we are going to learn about synonyms, antonyms, and homophones.",PRS,0.2608736753463745
+Let's start with synonyms. Synonyms are words that have similar meanings.,NEU,0.2517051994800567
+"For example, the words 'happy' and 'joyful' are synonyms.",REP,0.2550514638423919
+Can anyone give me another pair of synonyms?,PRS,0.2569060921669006
+Great choice! Those words are indeed synonyms.,PRS,0.2526820600032806
+"Next, we are going to learn about antonyms.",PRS,0.2583469748497009
+Antonyms are words that have opposite meanings.,OTR,0.2525211870670318
+"For example, the words 'big' and 'small' are antonyms.",REP,0.2602337598800659
+Can someone give me another pair of antonyms?,OTR,0.2544934749603271
+Wonderful! Those words are indeed antonyms.,PRS,0.2523362338542938
+"Now, let's learn about homophones.",PRS,0.2579321563243866
+Homophones are words that sound the same but have different meanings and spellings.,OTR,0.2548864185810089
+"For example, the words 'to', 'two', and 'too' are homophones.",REP,0.2524394989013672
+Can someone give me another set of homophones?,OTR,0.2569020092487335
+Excellent! Those words are indeed homophones.,PRS,0.252959281206131
+"Now, let's write down some examples of synonyms, antonyms, and homophones in our notebooks.",PRS,0.2524133324623108
+"Next, we are going to use synonyms, antonyms, and homophones in sentences.",PRS,0.2516413927078247
+Let's build a sentence using synonyms. I'll start with a word: 'happy'.,PRS,0.2513509392738342
+Can someone replace 'happy' with a synonym?,PRS,0.2545333504676819
+"Great, now our sentence is: 'She is joyful'.",PRS,0.254951149225235
+"Now, let's build a sentence using antonyms. I'll start with a word: 'big'.",PRS,0.2525154650211334
+Can someone replace 'big' with an antonym?,PRS,0.2535111904144287
+"Great, now our sentence is: 'The small dog barks'.",PRS,0.2570465505123138
+"Now, let's build a sentence using homophones. I'll start with a word: 'to'.",PRS,0.25191730260849
+Can someone replace 'to' with a homophone?,PRS,0.2530527710914612
+"Great, now our sentence is: 'She is going too fast'.",PRS,0.2571777701377868
+"Let's write down some of our own sentences using synonyms, antonyms, and homophones in our notebooks.",NEU,0.2525281906127929
+"Well done, everyone! You have learned a lot today.",PRS,0.2553454637527466
+Remember to practice using these new words in your writing.,NEU,0.2507087886333465
+"For homework, please write a short story using synonyms, antonyms, and homophones.",REP,0.2508853077888489
+"Make sure to use different synonyms, antonyms, and homophones in your story.",NEU,0.2526778876781463
+Don't forget to think carefully about the meanings of the words you choose.,NEU,0.2558842003345489
+I am looking forward to reading your stories.,REP,0.2943541407585144
+"Have a great day, and remember to keep practicing your English!",PRS,0.2629045844078064
+"Alright, let's just get today's lesson over with.",PRS,0.2642724215984344
+"We are discussing the medieval period, not that it seems anyone cares.",REP,0.2558042407035827
+"Yes, there were knights and castles, all that stuff.",REP,0.2845667004585266
+I suppose someone can tell me what a knight was?,PRS,0.2682003378868103
+"Well, it's something, at least. Yes, knights were warriors who served lords.",PRS,0.2560623288154602
+"Moving on, we have the feudal system. A waste of time if you ask me.",PRS,0.2655830085277557
+You would have a king and then nobles and it goes down from there.,PRS,0.2618506848812103
+I guess it's time to ask a question... What was the role of a serf?,PRS,0.2608127892017364
+"Yes, yes, they worked the land. Not much of a life.",REP,0.263172447681427
+"Let's talk about the Crusades, a series of needless wars.",PRS,0.2617208063602447
+"People fought over land and religion, as usual.",OTR,0.2813071012496948
+Can anyone name a famous battle from the Crusades?,PRS,0.2620518505573272
+"Well, the Battle of Jerusalem is one. Not that it matters much.",PRS,0.2690649330615997
+"Next we have the Magna Carta, a document signed in 1215.",PRS,0.2536575198173523
+"It was meant to limit the king's power, but who really cares?",PRS,0.2635718286037445
+Does anyone know who was forced to sign the Magna Carta?,PRS,0.2702164351940155
+"King John, yes. A king with little backbone, forced to sign it.",PRS,0.2569104135036468
+"Now, the Black Death, a plague that wiped out a large part of the population.",REP,0.303829550743103
+It was transmitted through fleas on rats. A disgusting time.,PRS,0.2642595171928406
+Can someone tell me what the symptoms of the Black Death were?,PRS,0.3077594935894012
+"Yes, fever and chills, among other unpleasant things.",PRS,0.2887613177299499
+"Moving on to the Renaissance, a time of rebirth, apparently.",REP,0.2801050245761871
+"Art and science flourished, for those who care about such things.",REP,0.2667897343635559
+Who can name a famous artist from the Renaissance?,PRS,0.2563400566577911
+"Leonardo da Vinci, yes. He painted the Mona Lisa, big deal.",PRS,0.2624614238739013
+"Next, the Reformation, a time when people started questioning the church.",PRS,0.258309930562973
+"It led to the creation of Protestant churches, splitting from the Catholic Church.",OTR,0.3131386041641235
+Can anyone tell me who started the Reformation?,PRS,0.2691770195960998
+"Martin Luther, yes. He had some grievances with the church.",PRS,0.2704713046550751
+"Now, the Age of Discovery, where Europeans decided to explore the world.",REP,0.3603932857513428
+"They colonized different lands, bringing diseases and taking resources.",REP,0.3571653068065643
+I suppose someone can name an explorer from this time?,REP,0.2563118040561676
+"Yes, Christopher Columbus. A man who got lost and stumbled upon America.",PRS,0.2633163928985595
+"Well, that's it for today's lesson. Not that it seems anyone is truly interested.",PRS,0.255500316619873
+I expect you to read the chapter on the medieval period for homework.,PRS,0.2668013572692871
+And try to actually remember something for once.,NEU,0.2561128139495849
+"Class dismissed. Don't forget your homework, not that it seems to matter.",PRS,0.2665129601955414
+"Just turn in your assignments on time, please.",PRS,0.260630190372467
+"History might seem boring, but it's part of the curriculum.",PRS,0.2692834436893463
+"No, we cannot skip this topic, we have to cover it.",PRS,0.2615267932415008
+"Yes, there will be a test on this, unfortunately.",PRS,0.2534836530685425
+"Just try to pay attention, even if it's not interesting.",PRS,0.2561874687671661
+"No, I don't know why you need to learn this.",PRS,0.2560572624206543
+"Just do the homework, it's not that hard.",REP,0.2583727538585663
+I hope at least someone here is paying attention.,PRS,0.2694724500179291
+"Please, let's just get through this material.",PRS,0.2652770280838012
+"If you have questions, just ask, I guess.",PRS,0.2836120724678039
+I'm not in the mood for discussions today.,PRS,0.298685759305954
+Just read the chapter and answer the questions at the end.,PRS,0.2607974410057068
+I hope tomorrow will be a better day.,REP,0.2712548971176147
+Class dismissed. Just... try to remember something.,PRS,0.2576384842395782
+"And please, just try to show some interest next time.",PRS,0.2542228400707245
+"Okay, goodbye everyone, see you tomorrow, I suppose.",PRS,0.2989601194858551
+"Just remember to do your homework, okay?",REP,0.2651607692241668
+"Goodbye, and try to have a good day, despite the boring lesson.",PRS,0.2547779083251953
+"Okay, that's it, you can leave now.",PRS,0.3208813667297363
+"Yes, goodbye, see you tomorrow.",PRS,0.3121294379234314
+"And remember, history can be interesting if you just try.",PRS,0.260005921125412
+"Okay, that's really it, goodbye.",PRS,0.2693291902542114
+"Just another day of history, I suppose.",PRS,0.2623103260993957
+"Good morning, wonderful students! Today, we're going on a historical adventure to ancient Egypt!",REP,0.322985827922821
+"Before we dive in, does anyone remember what we discussed last class?",PRS,0.2666589319705963
+"Absolutely fantastic, Jamie! Yes, we talked about Mesopotamia and the great inventions of the Sumerians.",REP,0.2886431217193603
+"Now, picture yourselves in ancient Egypt, a land of mysteries and pharaohs.",PRS,0.2586467266082763
+Can anyone tell me what the great pyramids were used for?,PRS,0.2747813165187835
+"Brilliant answer, Sam! Yes, they were tombs for the pharaohs.",PRS,0.2581581771373749
+Ancient Egyptians believed in life after death. Isn't that fascinating?,PRS,0.2725759148597717
+They even mummified their dead to preserve the bodies for the afterlife.,REP,0.3201114535331726
+Who can tell me about a famous pharaoh?,PRS,0.2612106502056122
+"Wonderful, Tina! Cleopatra was indeed a famous pharaoh and a very powerful leader.",REP,0.2611825466156006
+"Let's talk about the River Nile, a vital part of ancient Egyptian civilization.",REP,0.2728979885578155
+"The Nile flooded every year, providing fertile soil for farming. Can anyone tell me why this was important?",PRS,0.2667758464813232
+"Excellent point, Alex! The fertile soil helped in growing crops to feed the population.",REP,0.335794448852539
+"Now, let's move forward to ancient Greece, a land of philosophers and warriors.",PRS,0.2595863342285156
+The ancient Greeks loved to discuss ideas and philosophy. It was like a big think tank!,REP,0.3298560976982116
+Who can name a famous ancient Greek philosopher?,PRS,0.2665139138698578
+"Fantastic, Sarah! Socrates was indeed a great thinker and philosopher.",PRS,0.259459912776947
+The Greeks also had a rich mythology with gods and goddesses ruling over different aspects of life.,REP,0.3381922841072082
+"Moving on to ancient Rome, a civilization known for its engineering marvels.",REP,0.3553463220596313
+The Romans built impressive structures like the Colosseum. Can anyone tell me what it was used for?,REP,0.2652485966682434
+"Spot on, Ben! It was used for gladiatorial contests and public spectacles.",OTR,0.3096421062946319
+"Roman roads were straight and well-built, connecting different parts of the vast Roman Empire.",REP,0.3338559865951538
+"Now, let's travel to ancient China, a civilization rich in inventions and culture.",REP,0.3110413551330566
+The Chinese invented many things that we still use today. Can anyone give me an example?,REP,0.2536614537239074
+"Fantastic response, Emily! Yes, they invented paper, which revolutionized communication.",PRS,0.256063163280487
+"They also built the Great Wall, a massive structure visible from space!",REP,0.3327932953834533
+"Now, we move to the ancient Indian civilization, known for its spirituality and scientific advancements.",PRS,0.2617314755916595
+"The ancient Indians invented the zero, which is a fundamental concept in mathematics.",REP,0.3039022982120514
+Can anyone tell me about a famous spiritual leader from ancient India?,PRS,0.2704249322414398
+"Brilliant, Jake! Buddha, also known as Siddhartha Gautama, founded Buddhism.",REP,0.2661340236663818
+Let's journey to the Americas to learn about the Maya civilization.,REP,0.3204319477081299
+The Maya were skilled astronomers and mathematicians. They even had their own writing system!,REP,0.2746321856975555
+Can anyone tell me where the Maya civilization was located?,PRS,0.2669183313846588
+"Excellent, Lily! They were primarily located in present-day Mexico and Central America.",REP,0.2963905036449432
+"Now, let's move to the Inca civilization, known for its architectural wonders.",REP,0.2858626544475555
+"The Incas built incredible structures in the mountains, like the famous Machu Picchu.",REP,0.3607609272003174
+Who can tell me about the Inca's unique record-keeping system?,REP,0.2533027529716491
+"Fantastic, Mia! Yes, they used a system of knots called quipu to keep records.",PRS,0.2694315016269684
+You all are doing wonderfully! I am so impressed with your knowledge.,REP,0.274276852607727
+"Now, let's take a few minutes to review what we've learned today.",PRS,0.2606955766677856
+Can anyone tell me something amazing about ancient Egypt?,REP,0.3016701638698578
+"Wonderful, Noah! Yes, the pyramids are indeed a testament to their architectural brilliance.",REP,0.2590806186199188
+What about ancient Greece? What is something fascinating you learned?,PRS,0.2656981945037842
+"Great job, Olivia! The rich mythology of ancient Greece is indeed fascinating.",PRS,0.2581709623336792
+"Now, tell me something interesting about ancient Rome.",REP,0.2912688553333282
+"Spot on, Ava! The engineering skills of the Romans were truly remarkable.",REP,0.2602288722991943
+What about ancient China? What caught your attention?,REP,0.2601940929889679
+"Fantastic, Sophia! The invention of paper was indeed a groundbreaking achievement.",REP,0.2700115740299225
+"Now, what did you find interesting about ancient India?",REP,0.288331925868988
+"Excellent, Jackson! The concept of zero is indeed a significant contribution to mathematics.",PRS,0.2544476687908172
+What about the Maya civilization? What is something cool you learned?,PRS,0.281928539276123
+"Great answer, Liam! Their advanced knowledge in astronomy is indeed amazing.",REP,0.2814360558986664
+"Lastly, what did you find fascinating about the Inca civilization?",PRS,0.2529086172580719
+"Wonderful, Lucas! The architecture of the Inca civilization is truly mesmerizing.",REP,0.3471859693527221
+You all have done a fantastic job today! I am so proud of each and every one of you.,REP,0.2698535919189453
+"Before we end, let's take a moment to appreciate the rich history and the contributions of these ancient civilizations.",REP,0.2700833678245544
+"For homework, please read the chapter on ancient civilizations and jot down any interesting facts you come across.",PRS,0.2745392620563507
+"Remember, history is not just about learning facts but understanding the stories of our ancestors.",REP,0.2711080610752105
+"Thank you, dear students, for being so attentive and enthusiastic today.",NEU,0.2969264090061188
+I am looking forward to our next historical adventure together!,REP,0.2728627920150757
+"Have a splendid day everyone, and keep being the amazing historians you all are!",REP,0.2845132946968078
+You are all budding historians!,PRS,0.2672958672046661
+Remember to always be curious and keep exploring.,REP,0.2658156156539917
+"Have a joyful day, everyone!",PRS,0.277062177658081
+I can't wait to see what you all will discover in your readings.,PRS,0.2662252485752105
+"Remember, every civilization brought something unique to the world.",PRS,0.2551593780517578
+You all have the potential to bring something unique as well.,PRS,0.2540576159954071
+Always be kind and considerate to one another.,NEU,0.2578560709953308
+Learning history teaches us to be better people.,REP,0.257796049118042
+It gives us a window into the past and helps us understand the present.,PRS,0.2549349963665008
+"Keep asking questions, never stop being curious.",REP,0.2549868822097778
+You are all doing a fantastic job in this class.,PRS,0.2602155804634094
+I am here to help you learn and grow.,PRS,0.2665684521198272
+I believe in each and every one of you.,PRS,0.2619009912014007
+You all have bright minds and can achieve anything you set your mind to.,PRS,0.2562596201896667
+Remember to always do your best.,OTR,0.2527782022953033
+You all have a wonderful capacity to learn and understand complex topics.,PRS,0.258976548910141
+"Keep up the good work, everyone!",PRS,0.2714751362800598
+I am proud to be your teacher.,PRS,0.258770078420639
+Thank you for being such wonderful students.,PRS,0.2589224278926849
+"Have a fantastic day, everyone!",PRS,0.2603980898857116
+See you all in the next class!,PRS,0.2832328081130981
+"Goodbye for now, take care!",PRS,0.2546463310718536
+Keep smiling and stay happy!,PRS,0.254088431596756
+"Remember, you are all stars!",PRS,0.2584642171859741
+"Good morning class, today we are going to learn about ancient civilizations.",REP,0.3132611513137817
+Can anyone tell me what a civilization is?,PRS,0.2731102705001831
+"Yes, that's right. A civilization is a complex society with its own government, religion, and economy.",PRS,0.2607203125953674
+"Now, let's talk about the first civilization we know of, the Sumerians.",PRS,0.2865881621837616
+They lived in a region called Mesopotamia. Can anyone find Mesopotamia on the map?,REP,0.3180290758609772
+"Good job, Sarah! Mesopotamia is between the Tigris and Euphrates rivers.",PRS,0.2622760534286499
+The Sumerians invented many things we still use today. Can anyone give me an example?,REP,0.2524070739746094
+"Excellent, they did invent the wheel!",PRS,0.2682392597198486
+They also invented writing. They wrote on clay tablets using a script called cuneiform.,REP,0.3393436074256897
+"Jack, please stop talking while I am teaching.",PRS,0.2636080086231231
+Let's move on to the ancient Egyptians.,PRS,0.2690401375293731
+They built incredible structures called pyramids. Does anyone know why they built these?,REP,0.3034835755825043
+"That's correct, they built them as tombs for their pharaohs.",REP,0.2701614499092102
+Can anyone tell me about a famous pharaoh?,PRS,0.2635700702667236
+"Yes, King Tutankhamun is a very famous pharaoh.",PRS,0.256062388420105
+The ancient Egyptians also invented paper using a plant called papyrus.,REP,0.3435820639133453
+"Now, let's talk about the ancient Greeks.",PRS,0.2653349041938782
+"They are known for their philosophy, art, and mythology. Can anyone name a famous Greek philosopher?",PRS,0.2584637105464935
+"Yes, Socrates is a very famous Greek philosopher.",PRS,0.2574570775032043
+The ancient Greeks also invented the Olympics. The first Olympic games were held in 776 BCE.,REP,0.2911606729030609
+"Jack, I need you to focus on the lesson.",PRS,0.2690949141979217
+Let's move on to the ancient Romans.,PRS,0.2651527822017669
+The Romans built a large empire and they were known for their engineering skills.,REP,0.3443906605243683
+"They built roads, bridges, and huge buildings called colosseums.",REP,0.3481286168098449
+Does anyone know what the colosseums were used for?,REP,0.2680836617946625
+"Yes, they were used for various events including gladiator fights.",OTR,0.2805595397949219
+The Romans also developed a system of law that has influenced the legal systems of many countries.,OTR,0.2905168831348419
+"Now, let's talk about the ancient Chinese civilization.",REP,0.2618286609649658
+"They invented gunpowder, paper money, and the compass.",REP,0.3216980397701263
+Can anyone tell me about a famous Chinese philosopher?,PRS,0.2723853290081024
+"Yes, Confucius is a very famous Chinese philosopher.",PRS,0.2627362012863159
+The ancient Chinese also built the Great Wall of China to protect themselves from invasions.,REP,0.3147753179073334
+"Jack, this is your last warning. Please stop disrupting the class.",PRS,0.2610569298267364
+"Now, let's move on to the ancient Indian civilization.",PRS,0.2683807015419006
+They developed a number system that is the precursor to the one we use today.,OTR,0.2700200974941253
+They also practiced yoga and meditation.,REP,0.2905316352844238
+Does anyone know what religion originated in ancient India?,REP,0.2859352827072143
+"Yes, Hinduism originated in ancient India.",REP,0.2599370777606964
+Buddhism also originated in ancient India and it was founded by Siddhartha Gautama.,REP,0.3290913701057434
+Let's move on to the Maya civilization.,REP,0.2620765268802643
+The Maya were known for their advanced knowledge in astronomy and mathematics.,REP,0.3425785005092621
+They developed a calendar that is more accurate than the one we use today.,REP,0.3031775653362274
+Does anyone know where the Maya civilization was located?,REP,0.29413041472435
+"Yes, it was located in what is now Mexico and Central America.",REP,0.2709509432315826
+The Maya also built large cities with tall pyramids.,REP,0.3458109200000763
+"Jack, I am going to have to ask you to leave the class if you continue this behavior.",PRS,0.2727778553962707
+"Now, let's move on to the Inca civilization.",PRS,0.2622097134590149
+The Inca were known for their architecture and road systems.,REP,0.339379608631134
+They built a large empire in what is now Peru.,REP,0.3385214209556579
+Does anyone know what the Inca built high in the mountains?,REP,0.308064728975296
+"Yes, they built the city of Machu Picchu high in the Andes mountains.",REP,0.2749879360198974
+The Inca also developed a system of record-keeping using knots tied in strings called quipu.,PRS,0.2708586454391479
+"Now, we have covered a lot today. Let's take a few minutes to review.",PRS,0.268272340297699
+Can anyone tell me one thing the Sumerians invented?,PRS,0.2655044794082641
+"Yes, they invented writing.",PRS,0.2610750794410705
+What about the ancient Egyptians? What is one thing they are known for?,PRS,0.2704866528511047
+"Yes, they are known for building pyramids.",PRS,0.2596697211265564
+What is one thing the ancient Greeks are known for?,PRS,0.2583568096160888
+"Yes, they are known for their philosophy.",PRS,0.2589469254016876
+What is one thing the ancient Romans are known for?,PRS,0.2617444396018982
+"Yes, they are known for their engineering skills.",PRS,0.2606896758079529
+What is one thing the ancient Chinese are known for?,PRS,0.262433111667633
+"Yes, they are known for inventing paper money.",PRS,0.2584628760814667
+What is one thing the ancient Indians are known for?,PRS,0.2652119398117065
+"Yes, they are known for developing a number system.",NEU,0.2572275996208191
+What is one thing the Maya are known for?,PRS,0.2650733888149261
+"Yes, they are known for their advanced knowledge in astronomy.",REP,0.2616062462329864
+What is one thing the Inca are known for?,PRS,0.270732045173645
+"Yes, they are known for their architecture.",PRS,0.2692920267581939
+Great job everyone! You all did very well today.,NEU,0.2702899277210235
+Please remember to read the chapter on ancient civilizations for homework.,PRS,0.2664301991462707
+And don't forget to answer the questions at the end of the chapter.,PRS,0.2589656710624695
+"Jack, I need to speak with you after class.",PRS,0.2940474450588226
+"Good morning class, today we are going to learn about plants and photosynthesis.",REP,0.2936964929103851
+"Plants are very important because they produce oxygen, which we breathe.",REP,0.2706869542598724
+Let's start with the parts of a plant. Can anyone name a part of a plant?,PRS,0.2589818239212036
+"Great, the root is indeed a part of the plant!",PRS,0.2633756995201111
+"The main parts of a plant are the root, stem, leaves, and flowers.",OTR,0.2851223945617676
+"Now, let's talk about photosynthesis.",PRS,0.2599447965621948
+Photosynthesis is how plants make their own food using sunlight.,REP,0.3565722703933716
+The leaves of the plant play a crucial role in photosynthesis.,REP,0.2949097752571106
+Can someone tell me what the leaves do in photosynthesis?,PRS,0.2643696963787079
+"Correct, the leaves take in carbon dioxide and sunlight to produce food and oxygen.",REP,0.2816371321678161
+"Now, let's do a little experiment to understand photosynthesis better.",PRS,0.2817034423351288
+We will take a plant and cover one of its leaves with a black cloth to block sunlight.,PRS,0.2542755007743835
+"After a few days, we will observe what happens to the leaf.",PRS,0.2571191489696502
+Does anyone have a hypothesis or a guess about what might happen?,NEU,0.252744972705841
+Interesting hypothesis! We will see if you are right in a few days.,PRS,0.2677632570266723
+"Now, let's draw a diagram of a plant and label its parts.",PRS,0.2556034028530121
+"Remember to label the root, stem, leaves, and flowers.",OTR,0.2554506063461303
+"Next class, we will discuss our observations from the experiment.",OTR,0.2534718811511993
+"For homework, please read the chapter on plants and photosynthesis in your science book.",PRS,0.2568166851997375
+"Have a great day, everyone!",PRS,0.2698125839233398
+"Now, let's talk about the process of photosynthesis, which is essential for plant growth.",PRS,0.2580601274967193
+"During photosynthesis, plants convert carbon dioxide and sunlight into oxygen and glucose.",REP,0.3391401171684265
+Can anyone tell me what glucose is?,OTR,0.269973874092102
+"That's right, glucose is a type of sugar that provides energy for the plant.",REP,0.2600769400596618
+"Plants have different types of tissues, including dermal, vascular, and ground tissues.",REP,0.2910762429237366
+Each type of tissue has a specific function in the plant.,REP,0.2636046707630157
+Who can name a part of the dermal tissue?,OTR,0.2587040066719055
+"Yes, the epidermis is a part of the dermal tissue, which protects the plant.",OTR,0.2527284622192383
+"Moving on, let's discuss the vascular tissue, which includes the xylem and phloem.",OTR,0.2614001035690307
+"The xylem transports water and minerals, while the phloem transports sugars.",OTR,0.2807920575141907
+Can someone explain the function of the roots in a plant?,PRS,0.2560442984104156
+"Correct, roots provide stability and absorb water and nutrients from the soil.",REP,0.2722675204277038
+"Now, let's talk about plant reproduction.",PRS,0.2613164782524109
+"Plants can reproduce sexually through flowers and seeds, or asexually through methods like cuttings.",REP,0.2870488464832306
+Does anyone know how pollination works?,PRS,0.2579665780067444
+"Yes, pollination involves the transfer of pollen from the anther to the stigma of a flower.",PRS,0.2523886561393738
+Let's move on to the topic of plant adaptations.,PRS,0.2569329738616943
+Plants have developed various adaptations to survive in different environments.,REP,0.2905353605747223
+Can anyone give me an example of a plant adaptation?,PRS,0.2570310533046722
+"Good answer, cactus plants have adapted to survive in arid environments by storing water in their stems.",REP,0.3187623918056488
+"Now, let's discuss plant diseases and pests.",PRS,0.2639059126377105
+"Plants can be affected by a variety of diseases caused by fungi, bacteria, and viruses.",PRS,0.3425357043743133
+Who can name a common plant disease?,OTR,0.264185756444931
+"Yes, powdery mildew is a common fungal disease that affects plants.",REP,0.2532326579093933
+Let's move on to the topic of sustainable agriculture.,PRS,0.2623412609100342
+Sustainable agriculture involves farming practices that are environmentally friendly and preserve natural resources.,REP,0.2954907417297363
+Can someone tell me a benefit of sustainable agriculture?,PRS,0.2671090364456177
+"Absolutely, it helps in conserving soil health and biodiversity.",REP,0.2799398005008697
+"As we wrap up today's lesson, I want to emphasize the importance of plants in our ecosystem.",PRS,0.25443035364151
+"Plants provide oxygen, food, and habitat for many organisms.",REP,0.3357920944690704
+"Before we end, does anyone have any questions?",PRS,0.2737734913825989
+"Alright, it seems there are no questions.",PRS,0.2629106640815735
+"For homework, please read the chapter on plants and take notes on the different topics we discussed today.",PRS,0.271038293838501
+Thank you for your attention today. I appreciate your participation in the class discussion.,PRS,0.2613525986671448
+"Have a great day, everyone. See you in the next class.",NEU,0.2765432298183441
+"Plants have a variety of uses, including medicinal purposes.",OTR,0.2903687059879303
+"For example, the willow tree has been used to create salicylic acid, a precursor of aspirin.",OTR,0.2917681336402893
+"Plants also play a vital role in the carbon cycle, helping to reduce the amount of carbon dioxide in the atmosphere.",REP,0.3578951060771942
+Let's also not forget the aesthetic value of plants; they add beauty to our surroundings and are used in landscaping.,NEU,0.2547573745250702
+"Moreover, plants are used in research; they help us understand fundamental life processes.",REP,0.3007659912109375
+"I hope that through this lesson, you've gained a deeper appreciation for the world of plants.",NEU,0.2513711154460907
+"For next class, please bring in a leaf from a tree or plant outside of school.",PRS,0.2588750123977661
+We will be using these leaves in a lab activity to learn more about plant structures.,REP,0.2662648558616638
+"Remember, when collecting your leaf, to be respectful of nature and take only what you need.",OTR,0.2561105489730835
+"If you have any questions about the homework or today's lesson, feel free to ask.",OTR,0.257638156414032
+"Okay, if there are no questions, that concludes today's lesson on plants.",PRS,0.2565429210662842
+Please review the material and come prepared to engage in our lab activity next class.,OTR,0.2676945328712463
+Thank you all for your attention today. See you next class.,NEU,0.2697516679763794
+"Goodbye everyone, and remember to be curious and keep exploring the fascinating world of plants.",PRS,0.2681744694709778
+"Good morning class, today we are traveling through space to learn about the solar system!",REP,0.3228340446949005
+Our solar system consists of the Sun and all the celestial bodies that are gravitationally bound to the Sun.,REP,0.3285876810550689
+"These include the planets, their moons, dwarf planets, and asteroids.",REP,0.2665871083736419
+"Let's start with the center of our solar system, the Sun.",PRS,0.2619149088859558
+"The Sun is a star, and it provides light and heat to our solar system.",REP,0.3037237226963043
+Can someone name a planet in our solar system?,OTR,0.2593590915203094
+Great job! Earth is one of the eight planets in our solar system.,PRS,0.2657749652862549
+The planets revolve around the sun in paths called orbits.,REP,0.2933766841888428
+Can anyone tell me what the biggest planet in our solar system is?,OTR,0.2633039951324463
+Correct! Jupiter is the largest planet in our solar system.,PRS,0.2584098577499389
+"Now, let's make a model of the solar system using balls of different sizes to represent the Sun and the planets.",PRS,0.2610805630683899
+Remember to place the planets at different distances from the Sun to represent their orbits.,REP,0.2599329650402069
+"For homework, please read the chapter on the solar system in your science book.",PRS,0.2651334702968597
+"Next class, we will learn about each planet in more detail.",PRS,0.2658284604549408
+"Have a great day, space explorers!",PRS,0.2618172168731689
+"The sun is really huge, about 109 times the diameter of the earth.",REP,0.3307404220104217
+"Next, we move on to the planets. There are eight planets in our solar system.",PRS,0.2681944668292999
+Can anyone name the first planet closest to the sun?,OTR,0.2657738924026489
+"Correct, Mercury is the first planet and it is closest to the sun.",NEU,0.2608248293399811
+"Mercury is followed by Venus, Earth, and then Mars. These are known as the inner planets.",REP,0.2858177721500397
+"Then we have the outer planets which are Jupiter, Saturn, Uranus, and Neptune.",REP,0.2567551434040069
+"Jupiter is the largest planet in our solar system. It is known for its giant red spot, a storm that has been raging for centuries.",REP,0.3270800411701202
+Saturn is known for its beautiful rings that are made of ice and rock.,REP,0.3253146409988403
+"Uranus has a unique feature, it rotates on its side.",REP,0.3207293748855591
+Neptune is the farthest planet from the sun and has a deep blue color because of its atmosphere.,REP,0.3033952713012695
+"Apart from the planets, we have dwarf planets like Pluto.",REP,0.270573079586029
+We also have asteroids and meteoroids in our solar system.,REP,0.3309200406074524
+Comets are another interesting feature of our solar system; they have a bright tail that shines as they move closer to the sun.,REP,0.3538336753845215
+The solar system is a fascinating place with so many wonders to explore.,REP,0.3774940967559814
+We also have artificial satellites that humans have launched into space for various purposes.,REP,0.2874364852905273
+"Let's not forget the moon, which is Earth's natural satellite.",OTR,0.2576559484004974
+The moon has phases because of the way it orbits the Earth and how it reflects the sunlight.,REP,0.3174062967300415
+"Now, let's discuss some of the missions that have explored our solar system.",PRS,0.273632138967514
+"For example, the Voyager spacecrafts have provided us with valuable information about the outer planets.",REP,0.2817141413688659
+"The Mars rovers have been exploring the Martian surface for many years, sending back amazing pictures and data.",REP,0.3700537085533142
+There are also space telescopes like the Hubble Space Telescope that have given us breathtaking images of the universe.,REP,0.3674774467945099
+We have learned so much about our solar system through these missions and telescopes.,REP,0.3269050121307373
+It's important to continue exploring and learning about the universe we live in.,REP,0.2563312649726867
+There are still many mysteries to solve and discoveries to be made.,REP,0.265097051858902
+"Before we end today's class, I would like to show you some pictures taken by space missions.",PRS,0.2724901139736175
+"As you look at these pictures, think about the vastness of the universe and our place in it.",PRS,0.2549316585063934
+"It's truly amazing to think about all the things that are out there, waiting to be discovered.",PRS,0.2695197165012359
+I hope today's class has sparked your curiosity and inspired you to learn more about space and our solar system.,REP,0.3024232387542724
+"Remember, you are never too young to be an astronomer. Keep looking up and wondering about the stars and planets.",PRS,0.2597599625587463
+"For homework, I would like you to choose a planet or another feature of the solar system and write a short paragraph about it.",PRS,0.2569115161895752
+"You can include interesting facts, recent discoveries, or why you find it fascinating.",PRS,0.2543169558048248
+I'm looking forward to reading your paragraphs and learning more about what interests you in our solar system.,PRS,0.26637864112854
+Please remember to include a reference list with the sources you used for your research.,OTR,0.2539340555667877
+"If you have any questions about the homework or today's lesson, feel free to ask.",OTR,0.257638156414032
+"Alright, if there are no questions, I will see you in the next class.",PRS,0.2607081830501556
+Thank you for your attention today. Have a great day!,NEU,0.2627883553504944
+Space exploration has led to many technological advancements.,REP,0.3127242624759674
+Scientists are constantly working on new missions to explore the unknown.,REP,0.3738398253917694
+There are plans to send humans to Mars in the future.,REP,0.3364481925964355
+The International Space Station is a marvel of engineering where astronauts from around the world work together.,REP,0.374869167804718
+Astronomy also involves the study of stars and galaxies far beyond our solar system.,REP,0.3029658794403076
+"There are billions of galaxies in the universe, each containing billions of stars.",REP,0.3099827170372009
+"The Milky Way is the galaxy we are part of, and it has a spiral shape.",REP,0.3335680067539215
+Black holes are regions of space where gravity is so strong that not even light can escape.,PRS,0.2536768615245819
+Astronomers use different types of telescopes to study the universe in various wavelengths of light.,REP,0.3161849677562713
+Understanding the universe helps us understand our place in it and how it all began.,PRS,0.2573577761650085
+It's a field full of wonders and discoveries that can inspire people of all ages.,REP,0.3158848881721496
+"Good morning class, today we are going to become meteorologists and learn about weather and climate!",REP,0.2778346836566925
+Weather refers to the short-term atmospheric conditions in a specific place at a specific time.,OTR,0.2619094848632812
+"Climate, on the other hand, refers to the long-term average of weather patterns in a region.",REP,0.2738471329212188
+Let's start with the different elements of weather. Can anyone name an element of weather?,PRS,0.2584206163883209
+Good job! Temperature is indeed an important element of weather.,OTR,0.2545572519302368
+"Other elements include precipitation, wind, and humidity.",REP,0.2866899669170379
+"Now, let's talk about different weather instruments.",PRS,0.2625139355659485
+A thermometer is used to measure temperature.,PRS,0.3187350332736969
+Can anyone tell me what an anemometer is used for?,PRS,0.2685860097408294
+Correct! An anemometer is used to measure wind speed.,PRS,0.2538228631019592
+"Now, let's make our own rain gauge to measure the amount of rainfall.",REP,0.2785183787345886
+"We will use a plastic bottle, a ruler, and some stones for this activity.",PRS,0.2584438621997833
+I am excited to see your rain gauges and hear about your observations!,PRS,0.2749108076095581
+"For homework, please read the chapter on weather and climate in your science book.",REP,0.2570040822029114
+"Have a great day, future meteorologists!",PRS,0.2734738886356354
+"Yes, precipitation includes rain, but also snow, sleet, and hail.",REP,0.2552021145820617
+I see some of you are not paying attention. Please focus on the lesson.,PRS,0.2536911368370056
+Humidity refers to the amount of moisture in the air.,OTR,0.2551054954528808
+Wind speed and direction are also important elements of weather.,REP,0.2650121450424194
+"I just mentioned that, please listen carefully.",PRS,0.2548316717147827
+Atmospheric pressure can affect the weather too; it's measured using a barometer.,REP,0.3027487397193908
+Weather forecasts use all these elements to predict the weather.,REP,0.2588582336902618
+I expect everyone to know these basic concepts; they are not difficult.,PRS,0.255699098110199
+"Now, moving on to climate. Climate is affected by various factors including latitude and altitude.",REP,0.2745601236820221
+I don't understand why this is confusing for some of you.,PRS,0.2593111097812652
+Proximity to large bodies of water can influence the climate of a region.,REP,0.3429824113845825
+"Mountain ranges can also affect climate, creating different climate zones on each side.",REP,0.3469893038272857
+"I really hope you are making notes, this is important material.",PRS,0.2580347657203674
+"The climate of a region can be categorized into different types such as tropical, dry, temperate, continental, and polar.",REP,0.3032921850681305
+It's essential to differentiate between weather and climate; they are not the same thing.,REP,0.2553469240665436
+"Now, we will look at some of the tools used to study weather and climate.",PRS,0.2777133882045746
+"Meteorologists use various tools including thermometers, barometers, and anemometers.",PRS,0.3344402909278869
+I don't appreciate the talking while I am teaching; please show some respect.,PRS,0.2566204369068146
+Weather balloons are used to collect data from the atmosphere.,REP,0.3290620148181915
+Satellites provide valuable information about weather patterns from space.,REP,0.3250308334827423
+Please stop fidgeting; it's distracting.,PRS,0.2595353424549103
+We also have radar technology that helps in tracking storms and predicting their path.,REP,0.3391475975513458
+I am surprised that some of you find this boring; it's fascinating material.,PRS,0.2580175399780273
+"Now, we will look at some case studies to understand the effects of climate change.",PRS,0.2666644155979156
+Climate change is a serious issue that affects all of us; it's not a joke.,REP,0.2545718252658844
+I expect everyone to participate in the discussion. This is a serious topic.,PRS,0.2645356357097626
+"Sea level rise, extreme weather events, and changing ecosystems are all consequences of climate change.",REP,0.3322749137878418
+I will not tolerate any disrespectful comments during this discussion.,PRS,0.2642084658145904
+It's important to understand the science behind climate change and not fall for misinformation.,REP,0.2581973075866699
+"For homework, I want you to research one effect of climate change and write a report on it.",PRS,0.2703459560871124
+"I expect well-researched and thoughtful reports, not something put together at the last minute.",PRS,0.2564582824707031
+You can find reliable information from sources such as government websites and scientific journals.,OTR,0.2608258724212646
+I am expecting high-quality work; don't let me down.,PRS,0.2604226469993591
+"If you have any questions about the homework or today's lesson, ask now.",PRS,0.2720415294170379
+I don't have time to answer questions later; now is the time to ask.,OTR,0.2635130882263183
+"Alright, if there are no questions, that's all for today.",PRS,0.25811368227005
+I hope to see more engagement and seriousness in the next class.,PRS,0.2639385461807251
+Please pack your things quietly and leave without disturbing others.,PRS,0.2651275992393493
+Climate patterns are changing and it's important to take actions to mitigate the effects.,REP,0.2751202285289764
+We can reduce our carbon footprint by using energy more efficiently.,REP,0.2943232953548431
+I see some people are not interested. It is your future we are talking about!,PRS,0.2654846310615539
+Recycling is another way to help the environment.,REP,0.2594008147716522
+I am sure everyone can do their part in combating climate change.,PRS,0.2662681341171264
+Education is key. Make sure to inform yourselves and others.,PRS,0.2529445290565491
+I am disappointed with the lack of engagement in this class today.,PRS,0.2625506520271301
+We will also learn about different biomes in the world in the next class.,REP,0.2584920227527618
+"Biomes include different areas such as forests, grasslands, deserts, and tundras.",REP,0.3042617738246918
+I want everyone to be prepared for the next class; read the necessary chapters.,PRS,0.2625066936016083
+I won't entertain any excuses for being unprepared.,PRS,0.2593595087528229
+Do remember that we have a quiz coming up next week.,PRS,0.289975494146347
+I expect everyone to perform well in the quiz; start studying from now.,PRS,0.2706775367259979
+I will be available for a short while after class if anyone has questions.,OTR,0.2586766481399536
+But I won't be repeating everything I said in class; you should have been paying attention.,PRS,0.2610117197036743
+I am noticing a lack of seriousness in this class; it needs to change.,PRS,0.2564902603626251
+This is not a place to waste time; it's a place to learn and grow.,PRS,0.2592585682868957
+I hope to see a change in attitude in the coming classes.,PRS,0.2662387192249298
+"I am here to help you learn, but you need to show interest and initiative.",PRS,0.2562380135059356
+I expect better behavior and attentiveness in the next class.,PRS,0.2539205849170685
+Let's end the class here for today.,PRS,0.2583836913108825
+Make sure to revise everything we discussed today.,PRS,0.2617819905281067
+And start working on your report from today; don't leave it for the last minute.,PRS,0.2565717101097107
+Thank you and I hope to see a more attentive class next time.,PRS,0.2606366872787475
+Goodbye and take responsibility for your learning.,PRS,0.2535724937915802
