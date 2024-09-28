@@ -11,7 +11,7 @@ This project is a simple chatbot built using Python and Redis's Pub/Sub mechanis
 ## Setup Instructions
 1. Clone the Repository
 - Clone the project repository to your local machine: git clone <https://github.com/ananim30j/ProjectsPortfolio/tree/main/RedisChatbot>
-- Navigate into the project directory where the code and files are located: cd <project_folder>
+- Navigate into the project directory where the code and files are located: cd <RedisChatbot>
 
 2. Modify the docker-compose.yml File
 - Under 'volumes', modify the file path to the left of the ':' so it matches the local path on your machine where the project is stored
@@ -125,3 +125,18 @@ This project is a simple chatbot built using Python and Redis's Pub/Sub mechanis
     - Redis Monitor Display: "UNSUBSCRIBE" "food"
     
 ![Leave](./images/leave.png "Leave Command")
+
+## Generative AI Usage
+Generative AI was used to mitigate some of the issues, as well as to enhance the chatbot. Here is a breakdown of the usage:
+- Conversational Design & Interaction Flow
+    - Helped break down identification process one piece of information at a time
+    - Added conversational questions
+- Emojis
+    - Inserted emojis wherever applicable to improve visual appeal & user engagement
+- Spacing & Input Formatting
+    - Initially the chatbot had issues for handling user input when there were spaces in commands, such as asking for a weather update (!weather San Francisco)
+    - Identified this issue & helped used split(maxsplit=1) to properly handle multi-word inputs
+- Error Handling
+    - Improved error handling mechanism to guide the user to provide correct inputs
+- Content Creation
+    - Aided in creating fun facts & jokes to be stored
