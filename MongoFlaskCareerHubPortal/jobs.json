@@ -1,0 +1,3111 @@
+[
+    {
+        "_id": "670fdee4cc35db21f72b25e5",
+        "job_id": 1,
+        "title": "IT Consultant",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 5,
+        "detailed_description": "The role of a IT Consultant at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 44003,
+            "benefits": [
+                "Professional development assistance",
+                "Dental insurance",
+                "Parental leave",
+                "Retirement plan"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.temporary.com/job-1",
+            "posting_date": "2023-09-20",
+            "closing_date": "2023-11-23"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "l",
+                "x",
+                "e",
+                "c"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25e6",
+        "job_id": 2,
+        "title": "Management Consultant - Data Science",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 128830,
+            "benefits": [
+                "Parental leave",
+                "Paid time off",
+                "Gym membership",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.full-time.com/job-2",
+            "posting_date": "2023-09-23",
+            "closing_date": "2023-10-23"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "e",
+                "e",
+                " "
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25e7",
+        "job_id": 3,
+        "title": "Investment Data Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 135886,
+            "benefits": [
+                "Health insurance",
+                "Gym membership",
+                "Professional development assistance",
+                "Dental insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.internship.com/job-3",
+            "posting_date": "2023-09-13",
+            "closing_date": "2023-11-02"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "l",
+                "e",
+                "E",
+                "c"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25e8",
+        "job_id": 4,
+        "title": "Investment Data Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 116593,
+            "benefits": [
+                "Paid time off",
+                "Tuition reimbursement",
+                "Vision insurance",
+                "Retirement plan"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.full-time.com/job-4",
+            "posting_date": "2023-09-05",
+            "closing_date": "2023-11-16"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "l",
+                "a",
+                "b"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25e9",
+        "job_id": 5,
+        "title": "Machine Learning Engineer",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 7,
+        "detailed_description": "The role of a Machine Learning Engineer at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 85248,
+            "benefits": [
+                "Vision insurance",
+                "Paid time off",
+                "Tuition reimbursement",
+                "Parental leave"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-5",
+            "posting_date": "2023-10-01",
+            "closing_date": "2023-11-13"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "s"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ea",
+        "job_id": 6,
+        "title": "Healthcare Data Analyst",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 3,
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 109817,
+            "benefits": [
+                "Gym membership",
+                "Vision insurance",
+                "Professional development assistance",
+                "Retirement plan",
+                "Parental leave"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.part-time.com/job-6",
+            "posting_date": "2023-09-08",
+            "closing_date": "2023-11-18"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "y",
+                "P",
+                "t",
+                "n"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25eb",
+        "job_id": 7,
+        "title": "Bioinformatics Scientist",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 3,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 141005,
+            "benefits": [
+                "Dental insurance",
+                "Vision insurance",
+                "Retirement plan",
+                "Parental leave"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-7",
+            "posting_date": "2023-09-28",
+            "closing_date": "2023-10-23"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "n",
+                "a",
+                "M"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ec",
+        "job_id": 8,
+        "title": "Data Scientist",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 3,
+        "detailed_description": "The role of a Data Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 132291,
+            "benefits": [
+                "Gym membership",
+                "Retirement plan",
+                "Dental insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-8",
+            "posting_date": "2023-09-29",
+            "closing_date": "2023-11-10"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "l"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ed",
+        "job_id": 9,
+        "title": "E-commerce Data Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 5,
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 132942,
+            "benefits": [
+                "Paid time off",
+                "Health insurance",
+                "Retirement plan",
+                "Parental leave",
+                "Gym membership"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-9",
+            "posting_date": "2023-09-18",
+            "closing_date": "2023-11-17"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "o",
+                "Q",
+                "L"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ee",
+        "job_id": 10,
+        "title": "Financial Data Scientist",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Excellent communication skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 64580,
+            "benefits": [
+                "Vision insurance",
+                "Gym membership"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.temporary.com/job-10",
+            "posting_date": "2023-09-10",
+            "closing_date": "2023-11-26"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "e"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ef",
+        "job_id": 11,
+        "title": "Management Consultant - Data Science",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 1,
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 41233,
+            "benefits": [
+                "Health insurance",
+                "Paid time off",
+                "Gym membership",
+                "Dental insurance",
+                "Tuition reimbursement"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-11",
+            "posting_date": "2023-09-10",
+            "closing_date": "2023-11-12"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "N",
+                "o"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25f0",
+        "job_id": 12,
+        "title": "Financial Data Scientist",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 1,
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 98866,
+            "benefits": [
+                "Tuition reimbursement",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.part-time.com/job-12",
+            "posting_date": "2023-10-01",
+            "closing_date": "2023-10-25"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "n",
+                "e"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25f1",
+        "job_id": 13,
+        "title": "E-commerce Data Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 2,
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 84920,
+            "benefits": [
+                "Gym membership",
+                "Professional development assistance",
+                "Health insurance",
+                "Tuition reimbursement",
+                "Vision insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.part-time.com/job-13",
+            "posting_date": "2023-09-11",
+            "closing_date": "2023-11-13"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "e",
+                "g",
+                "D",
+                "i"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25f2",
+        "job_id": 14,
+        "title": "Digital Marketing Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Digital Marketing Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 72290,
+            "benefits": [
+                "Dental insurance",
+                "Vision insurance",
+                "Tuition reimbursement",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.internship.com/job-14",
+            "posting_date": "2023-09-13",
+            "closing_date": "2023-10-21"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "r",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25f3",
+        "job_id": 15,
+        "title": "Healthcare Data Analyst",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 146086,
+            "benefits": [
+                "Dental insurance",
+                "Retirement plan",
+                "Gym membership",
+                "Vision insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.part-time.com/job-15",
+            "posting_date": "2023-09-16",
+            "closing_date": "2023-11-03"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "e"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25f4",
+        "job_id": 16,
+        "title": "Data Scientist",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 1,
+        "detailed_description": "The role of a Data Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 103530,
+            "benefits": [
+                "Retirement plan",
+                "Gym membership",
+                "Tuition reimbursement",
+                "Dental insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-16",
+            "posting_date": "2023-09-22",
+            "closing_date": "2023-10-29"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "p",
+                "r",
+                "S",
+                "k"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25f5",
+        "job_id": 17,
+        "title": "Clinical Data Scientist",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 3,
+        "detailed_description": "The role of a Clinical Data Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 140767,
+            "benefits": [
+                "Dental insurance",
+                "Professional development assistance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-17",
+            "posting_date": "2023-09-19",
+            "closing_date": "2023-11-14"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "E",
+                "e"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25f6",
+        "job_id": 18,
+        "title": "Quantitative Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 5,
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 117908,
+            "benefits": [
+                "Gym membership",
+                "Paid time off",
+                "Vision insurance",
+                "Retirement plan"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-18",
+            "posting_date": "2023-09-28",
+            "closing_date": "2023-10-17"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "c",
+                "h"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25f7",
+        "job_id": 19,
+        "title": "Computer Scientist",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Computer Scientist at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 103860,
+            "benefits": [
+                "Dental insurance",
+                "Health insurance",
+                "Parental leave"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.temporary.com/job-19",
+            "posting_date": "2023-09-24",
+            "closing_date": "2023-11-30"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "n",
+                "s",
+                "N"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25f8",
+        "job_id": 20,
+        "title": "Bioinformatics Scientist",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 103906,
+            "benefits": [
+                "Tuition reimbursement",
+                "Parental leave",
+                "Retirement plan"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-20",
+            "posting_date": "2023-09-17",
+            "closing_date": "2023-11-13"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "a",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25f9",
+        "job_id": 21,
+        "title": "Quantitative Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 114694,
+            "benefits": [
+                "Vision insurance",
+                "Tuition reimbursement",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.temporary.com/job-21",
+            "posting_date": "2023-09-08",
+            "closing_date": "2023-11-15"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "L"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25fa",
+        "job_id": 22,
+        "title": "Risk Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 2,
+        "detailed_description": "The role of a Risk Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 107914,
+            "benefits": [
+                "Health insurance",
+                "Retirement plan",
+                "Dental insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.full-time.com/job-22",
+            "posting_date": "2023-09-05",
+            "closing_date": "2023-11-27"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "A"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b25fb",
+        "job_id": 23,
+        "title": "Business Technology Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 1,
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 118976,
+            "benefits": [
+                "Tuition reimbursement",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.internship.com/job-23",
+            "posting_date": "2023-09-25",
+            "closing_date": "2023-10-23"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "t",
+                "y"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b25fc",
+        "job_id": 24,
+        "title": "Quantitative Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 3,
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 126027,
+            "benefits": [
+                "Health insurance",
+                "Parental leave"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-24",
+            "posting_date": "2023-09-12",
+            "closing_date": "2023-10-31"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "i",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b25fd",
+        "job_id": 25,
+        "title": "Digital Marketing Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 1,
+        "detailed_description": "The role of a Digital Marketing Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 149324,
+            "benefits": [
+                "Dental insurance",
+                "Retirement plan"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-25",
+            "posting_date": "2023-09-06",
+            "closing_date": "2023-11-04"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "R"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b25fe",
+        "job_id": 26,
+        "title": "Business Technology Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 41445,
+            "benefits": [
+                "Vision insurance",
+                "Retirement plan"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-26",
+            "posting_date": "2023-09-25",
+            "closing_date": "2023-11-04"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "l",
+                "M",
+                "b"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b25ff",
+        "job_id": 27,
+        "title": "E-commerce Business Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 7,
+        "detailed_description": "The role of a E-commerce Business Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 120033,
+            "benefits": [
+                "Professional development assistance",
+                "Tuition reimbursement"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-27",
+            "posting_date": "2023-09-18",
+            "closing_date": "2023-11-26"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "h",
+                "P"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2600",
+        "job_id": 28,
+        "title": "Data Scientist",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 2,
+        "detailed_description": "The role of a Data Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 140011,
+            "benefits": [
+                "Professional development assistance",
+                "Parental leave",
+                "Vision insurance",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.part-time.com/job-28",
+            "posting_date": "2023-09-30",
+            "closing_date": "2023-11-17"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "a",
+                "p",
+                "r",
+                "k"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2601",
+        "job_id": 29,
+        "title": "Computer Scientist",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 5,
+        "detailed_description": "The role of a Computer Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 128525,
+            "benefits": [
+                "Gym membership",
+                "Tuition reimbursement",
+                "Retirement plan"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.internship.com/job-29",
+            "posting_date": "2023-09-24",
+            "closing_date": "2023-11-09"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "R"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2602",
+        "job_id": 30,
+        "title": "E-commerce Data Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 3,
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 125943,
+            "benefits": [
+                "Paid time off",
+                "Gym membership"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-30",
+            "posting_date": "2023-09-02",
+            "closing_date": "2023-10-22"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "S",
+                "A",
+                "S"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2603",
+        "job_id": 31,
+        "title": "Quantitative Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 119209,
+            "benefits": [
+                "Professional development assistance",
+                "Parental leave",
+                "Paid time off"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-31",
+            "posting_date": "2023-09-08",
+            "closing_date": "2023-11-10"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "L",
+                "e",
+                "r",
+                "n"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2604",
+        "job_id": 32,
+        "title": "Healthcare Data Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Excellent communication skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 69223,
+            "benefits": [
+                "Dental insurance",
+                "Retirement plan"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-32",
+            "posting_date": "2023-09-05",
+            "closing_date": "2023-11-03"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "i",
+                "c",
+                "t",
+                "i"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2605",
+        "job_id": 33,
+        "title": "Healthcare Data Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 10,
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 116118,
+            "benefits": [
+                "Parental leave",
+                "Tuition reimbursement",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-33",
+            "posting_date": "2023-09-04",
+            "closing_date": "2023-11-18"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "N",
+                "Q"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2606",
+        "job_id": 34,
+        "title": "Machine Learning Engineer",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 10,
+        "detailed_description": "The role of a Machine Learning Engineer at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 98488,
+            "benefits": [
+                "Dental insurance",
+                "Professional development assistance",
+                "Tuition reimbursement",
+                "Vision insurance",
+                "Gym membership"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.full-time.com/job-34",
+            "posting_date": "2023-09-25",
+            "closing_date": "2023-10-29"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "i"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2607",
+        "job_id": 35,
+        "title": "E-commerce Business Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 7,
+        "detailed_description": "The role of a E-commerce Business Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Excellent communication skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 102752,
+            "benefits": [
+                "Health insurance",
+                "Vision insurance",
+                "Paid time off",
+                "Parental leave"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-35",
+            "posting_date": "2023-09-08",
+            "closing_date": "2023-11-07"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2608",
+        "job_id": 36,
+        "title": "Healthcare Data Analyst",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 7,
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 145791,
+            "benefits": [
+                "Professional development assistance",
+                "Tuition reimbursement",
+                "Parental leave",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-36",
+            "posting_date": "2023-09-13",
+            "closing_date": "2023-11-23"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "a",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2609",
+        "job_id": 37,
+        "title": "Computer Scientist",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 10,
+        "detailed_description": "The role of a Computer Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Strong analytical and problem-solving skills., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 96880,
+            "benefits": [
+                "Professional development assistance",
+                "Health insurance",
+                "Gym membership",
+                "Vision insurance",
+                "Retirement plan"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-37",
+            "posting_date": "2023-09-29",
+            "closing_date": "2023-10-29"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "r",
+                "L"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b260a",
+        "job_id": 38,
+        "title": "Healthcare Data Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 7,
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 119802,
+            "benefits": [
+                "Retirement plan",
+                "Paid time off",
+                "Gym membership"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-38",
+            "posting_date": "2023-09-04",
+            "closing_date": "2023-11-04"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "a",
+                "b",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b260b",
+        "job_id": 39,
+        "title": "Clinical Data Scientist",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 7,
+        "detailed_description": "The role of a Clinical Data Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 120379,
+            "benefits": [
+                "Paid time off",
+                "Tuition reimbursement"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.internship.com/job-39",
+            "posting_date": "2023-09-08",
+            "closing_date": "2023-11-08"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "S"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b260c",
+        "job_id": 40,
+        "title": "Quantitative Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 102076,
+            "benefits": [
+                "Vision insurance",
+                "Dental insurance",
+                "Retirement plan",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-40",
+            "posting_date": "2023-09-08",
+            "closing_date": "2023-10-31"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "n"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b260d",
+        "job_id": 41,
+        "title": "Bioinformatics Scientist",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 130687,
+            "benefits": [
+                "Vision insurance",
+                "Retirement plan",
+                "Gym membership",
+                "Professional development assistance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-41",
+            "posting_date": "2023-09-15",
+            "closing_date": "2023-11-02"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "k",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b260e",
+        "job_id": 42,
+        "title": "Bioinformatics Scientist",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 140253,
+            "benefits": [
+                "Tuition reimbursement",
+                "Gym membership",
+                "Paid time off",
+                "Vision insurance",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.full-time.com/job-42",
+            "posting_date": "2023-09-03",
+            "closing_date": "2023-11-08"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "n",
+                "o",
+                "t",
+                "D"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b260f",
+        "job_id": 43,
+        "title": "IT Consultant",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 7,
+        "detailed_description": "The role of a IT Consultant at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 137682,
+            "benefits": [
+                "Retirement plan",
+                "Dental insurance",
+                "Parental leave",
+                "Paid time off",
+                "Gym membership"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-43",
+            "posting_date": "2023-09-28",
+            "closing_date": "2023-11-30"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "c"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2610",
+        "job_id": 44,
+        "title": "Management Consultant - Data Science",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 53931,
+            "benefits": [
+                "Dental insurance",
+                "Health insurance",
+                "Retirement plan",
+                "Paid time off",
+                "Gym membership"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-44",
+            "posting_date": "2023-09-07",
+            "closing_date": "2023-11-19"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "r",
+                "g",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2611",
+        "job_id": 45,
+        "title": "Bioinformatics Scientist",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 129123,
+            "benefits": [
+                "Vision insurance",
+                "Tuition reimbursement",
+                "Retirement plan",
+                "Paid time off",
+                "Dental insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-45",
+            "posting_date": "2023-09-09",
+            "closing_date": "2023-11-29"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "R"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2612",
+        "job_id": 46,
+        "title": "Machine Learning Engineer",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 6,
+        "detailed_description": "The role of a Machine Learning Engineer at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 147776,
+            "benefits": [
+                "Vision insurance",
+                "Dental insurance",
+                "Health insurance",
+                "Professional development assistance",
+                "Gym membership"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-46",
+            "posting_date": "2023-09-07",
+            "closing_date": "2023-11-15"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "R"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2613",
+        "job_id": 47,
+        "title": "Risk Analyst",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Risk Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 110589,
+            "benefits": [
+                "Parental leave",
+                "Tuition reimbursement",
+                "Vision insurance",
+                "Health insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.temporary.com/job-47",
+            "posting_date": "2023-09-20",
+            "closing_date": "2023-11-06"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "S",
+                "l",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2614",
+        "job_id": 48,
+        "title": "Risk Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Risk Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 150616,
+            "benefits": [
+                "Dental insurance",
+                "Parental leave",
+                "Vision insurance",
+                "Retirement plan",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-48",
+            "posting_date": "2023-09-12",
+            "closing_date": "2023-11-18"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "v"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2615",
+        "job_id": 49,
+        "title": "Financial Data Scientist",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 94390,
+            "benefits": [
+                "Paid time off",
+                "Dental insurance",
+                "Gym membership"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-49",
+            "posting_date": "2023-09-28",
+            "closing_date": "2023-11-09"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "a",
+                "i",
+                "s",
+                "t"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2616",
+        "job_id": 50,
+        "title": "E-commerce Data Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 6,
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 133704,
+            "benefits": [
+                "Dental insurance",
+                "Health insurance",
+                "Professional development assistance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.internship.com/job-50",
+            "posting_date": "2023-09-18",
+            "closing_date": "2023-11-28"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "e",
+                "a",
+                "b",
+                "l"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2617",
+        "job_id": 51,
+        "title": "Business Technology Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 93847,
+            "benefits": [
+                "Health insurance",
+                "Paid time off",
+                "Vision insurance",
+                "Dental insurance",
+                "Retirement plan"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.part-time.com/job-51",
+            "posting_date": "2023-09-06",
+            "closing_date": "2023-11-26"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "s",
+                "i",
+                "c",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2618",
+        "job_id": 52,
+        "title": "IT Consultant",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 10,
+        "detailed_description": "The role of a IT Consultant at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 125450,
+            "benefits": [
+                "Gym membership",
+                "Professional development assistance",
+                "Vision insurance",
+                "Retirement plan",
+                "Parental leave"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.temporary.com/job-52",
+            "posting_date": "2023-09-11",
+            "closing_date": "2023-10-27"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "B",
+                "D",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2619",
+        "job_id": 53,
+        "title": "Healthcare Data Analyst",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 10,
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 63890,
+            "benefits": [
+                "Parental leave",
+                "Tuition reimbursement"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.internship.com/job-53",
+            "posting_date": "2023-09-25",
+            "closing_date": "2023-11-21"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "R"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b261a",
+        "job_id": 54,
+        "title": "E-commerce Data Analyst",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Proficiency in Python and SQL., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 93886,
+            "benefits": [
+                "Vision insurance",
+                "Health insurance",
+                "Professional development assistance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-54",
+            "posting_date": "2023-09-09",
+            "closing_date": "2023-11-09"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "p",
+                "n",
+                "D"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b261b",
+        "job_id": 55,
+        "title": "IT Consultant",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 6,
+        "detailed_description": "The role of a IT Consultant at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 52871,
+            "benefits": [
+                "Gym membership",
+                "Dental insurance",
+                "Parental leave"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.part-time.com/job-55",
+            "posting_date": "2023-09-22",
+            "closing_date": "2023-11-17"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "r",
+                "p"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b261c",
+        "job_id": 56,
+        "title": "Risk Analyst",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 1,
+        "detailed_description": "The role of a Risk Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 120327,
+            "benefits": [
+                "Tuition reimbursement",
+                "Retirement plan",
+                "Parental leave",
+                "Paid time off"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-56",
+            "posting_date": "2023-09-27",
+            "closing_date": "2023-10-27"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "o"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b261d",
+        "job_id": 57,
+        "title": "IT Consultant",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 1,
+        "detailed_description": "The role of a IT Consultant at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 58783,
+            "benefits": [
+                "Parental leave",
+                "Gym membership",
+                "Retirement plan",
+                "Professional development assistance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.internship.com/job-57",
+            "posting_date": "2023-09-15",
+            "closing_date": "2023-11-01"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "t",
+                "s",
+                "t"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b261e",
+        "job_id": 58,
+        "title": "IT Consultant",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a IT Consultant at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 71376,
+            "benefits": [
+                "Gym membership",
+                "Parental leave",
+                "Vision insurance",
+                "Paid time off"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.part-time.com/job-58",
+            "posting_date": "2023-09-23",
+            "closing_date": "2023-10-31"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "k"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b261f",
+        "job_id": 59,
+        "title": "Financial Data Scientist",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 98540,
+            "benefits": [
+                "Gym membership",
+                "Professional development assistance",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-59",
+            "posting_date": "2023-09-23",
+            "closing_date": "2023-11-20"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "g",
+                "u",
+                "n",
+                "e"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2620",
+        "job_id": 60,
+        "title": "Management Consultant - Data Science",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 7,
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 43037,
+            "benefits": [
+                "Retirement plan",
+                "Professional development assistance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.internship.com/job-60",
+            "posting_date": "2023-09-21",
+            "closing_date": "2023-11-12"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "a",
+                "o",
+                "H",
+                "o"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2621",
+        "job_id": 61,
+        "title": "Financial Data Scientist",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 163201,
+            "benefits": [
+                "Tuition reimbursement",
+                "Paid time off",
+                "Health insurance",
+                "Professional development assistance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.full-time.com/job-61",
+            "posting_date": "2023-09-22",
+            "closing_date": "2023-12-01"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "x"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2622",
+        "job_id": 62,
+        "title": "Systems Architect",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Systems Architect at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 147817,
+            "benefits": [
+                "Dental insurance",
+                "Professional development assistance",
+                "Retirement plan",
+                "Parental leave",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-62",
+            "posting_date": "2023-09-16",
+            "closing_date": "2023-11-11"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "s",
+                "u",
+                " "
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2623",
+        "job_id": 63,
+        "title": "IT Consultant",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a IT Consultant at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 46706,
+            "benefits": [
+                "Health insurance",
+                "Paid time off"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-63",
+            "posting_date": "2023-09-08",
+            "closing_date": "2023-11-06"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "p",
+                "n",
+                " ",
+                "i"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2624",
+        "job_id": 64,
+        "title": "Bioinformatics Scientist",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 50951,
+            "benefits": [
+                "Gym membership",
+                "Professional development assistance",
+                "Retirement plan"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-64",
+            "posting_date": "2023-09-04",
+            "closing_date": "2023-11-16"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "P",
+                "s"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2625",
+        "job_id": 65,
+        "title": "Business Technology Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 100713,
+            "benefits": [
+                "Professional development assistance",
+                "Dental insurance",
+                "Parental leave",
+                "Tuition reimbursement",
+                "Paid time off"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.temporary.com/job-65",
+            "posting_date": "2023-09-05",
+            "closing_date": "2023-10-28"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "l",
+                "e"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2626",
+        "job_id": 66,
+        "title": "Quantitative Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 6,
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 95390,
+            "benefits": [
+                "Health insurance",
+                "Paid time off",
+                "Professional development assistance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.internship.com/job-66",
+            "posting_date": "2023-09-15",
+            "closing_date": "2023-10-22"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "l",
+                "x",
+                "E"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2627",
+        "job_id": 67,
+        "title": "Bioinformatics Scientist",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 6,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 132912,
+            "benefits": [
+                "Professional development assistance",
+                "Gym membership"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-67",
+            "posting_date": "2023-10-02",
+            "closing_date": "2023-11-01"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                " "
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2628",
+        "job_id": 68,
+        "title": "Investment Data Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 7,
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Strong analytical and problem-solving skills., Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 65744,
+            "benefits": [
+                "Gym membership",
+                "Tuition reimbursement",
+                "Dental insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.internship.com/job-68",
+            "posting_date": "2023-09-05",
+            "closing_date": "2023-10-28"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "c",
+                "r"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2629",
+        "job_id": 69,
+        "title": "Data Scientist",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Data Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 143402,
+            "benefits": [
+                "Paid time off",
+                "Retirement plan",
+                "Health insurance",
+                "Parental leave",
+                "Tuition reimbursement"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-69",
+            "posting_date": "2023-09-26",
+            "closing_date": "2023-10-24"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "r",
+                "o",
+                "e",
+                "g"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b262a",
+        "job_id": 70,
+        "title": "E-commerce Business Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a E-commerce Business Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 109071,
+            "benefits": [
+                "Tuition reimbursement",
+                "Professional development assistance",
+                "Retirement plan",
+                "Paid time off",
+                "Parental leave"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-70",
+            "posting_date": "2023-09-22",
+            "closing_date": "2023-10-26"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "a",
+                "S",
+                "l",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b262b",
+        "job_id": 71,
+        "title": "IT Consultant",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a IT Consultant at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 109472,
+            "benefits": [
+                "Professional development assistance",
+                "Retirement plan",
+                "Parental leave",
+                "Vision insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-71",
+            "posting_date": "2023-09-29",
+            "closing_date": "2023-12-01"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "a",
+                "a",
+                "b"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b262c",
+        "job_id": 72,
+        "title": "Risk Analyst",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 10,
+        "detailed_description": "The role of a Risk Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 71289,
+            "benefits": [
+                "Vision insurance",
+                "Gym membership"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-72",
+            "posting_date": "2023-09-28",
+            "closing_date": "2023-11-15"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "p",
+                "k"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b262d",
+        "job_id": 73,
+        "title": "Healthcare Data Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 141200,
+            "benefits": [
+                "Dental insurance",
+                "Tuition reimbursement",
+                "Retirement plan",
+                "Professional development assistance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.internship.com/job-73",
+            "posting_date": "2023-09-16",
+            "closing_date": "2023-10-20"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "a",
+                "s",
+                "c",
+                "P"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b262e",
+        "job_id": 74,
+        "title": "E-commerce Business Analyst",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 3,
+        "detailed_description": "The role of a E-commerce Business Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 129355,
+            "benefits": [
+                "Parental leave",
+                "Gym membership",
+                "Vision insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.part-time.com/job-74",
+            "posting_date": "2023-09-06",
+            "closing_date": "2023-11-10"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "S",
+                "L"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b262f",
+        "job_id": 75,
+        "title": "Data Scientist",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 1,
+        "detailed_description": "The role of a Data Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 158896,
+            "benefits": [
+                "Retirement plan",
+                "Vision insurance",
+                "Gym membership",
+                "Health insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-75",
+            "posting_date": "2023-09-29",
+            "closing_date": "2023-11-17"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "i",
+                "r"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2630",
+        "job_id": 76,
+        "title": "Digital Marketing Analyst",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Digital Marketing Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 46945,
+            "benefits": [
+                "Dental insurance",
+                "Health insurance",
+                "Gym membership",
+                "Paid time off",
+                "Professional development assistance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-76",
+            "posting_date": "2023-09-22",
+            "closing_date": "2023-11-01"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "l",
+                "u",
+                "e",
+                "b"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2631",
+        "job_id": 77,
+        "title": "IT Consultant",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 5,
+        "detailed_description": "The role of a IT Consultant at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 139740,
+            "benefits": [
+                "Dental insurance",
+                "Retirement plan",
+                "Paid time off",
+                "Tuition reimbursement",
+                "Professional development assistance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.part-time.com/job-77",
+            "posting_date": "2023-09-13",
+            "closing_date": "2023-10-29"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "R"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2632",
+        "job_id": 78,
+        "title": "Business Technology Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 2,
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 51132,
+            "benefits": [
+                "Professional development assistance",
+                "Dental insurance",
+                "Health insurance",
+                "Tuition reimbursement",
+                "Paid time off"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.part-time.com/job-78",
+            "posting_date": "2023-09-04",
+            "closing_date": "2023-11-20"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "t",
+                "a",
+                "i",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2633",
+        "job_id": 79,
+        "title": "Quantitative Analyst",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 1,
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 159628,
+            "benefits": [
+                "Health insurance",
+                "Parental leave",
+                "Tuition reimbursement"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.internship.com/job-79",
+            "posting_date": "2023-09-07",
+            "closing_date": "2023-10-28"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "N",
+                "n",
+                "s"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2634",
+        "job_id": 80,
+        "title": "Investment Data Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 1,
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Excellent communication skills., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 60243,
+            "benefits": [
+                "Retirement plan",
+                "Vision insurance",
+                "Parental leave",
+                "Professional development assistance",
+                "Paid time off"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-80",
+            "posting_date": "2023-09-06",
+            "closing_date": "2023-11-03"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "b",
+                "l",
+                "a",
+                "t"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2635",
+        "job_id": 81,
+        "title": "Digital Marketing Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Digital Marketing Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 102447,
+            "benefits": [
+                "Vision insurance",
+                "Retirement plan",
+                "Paid time off",
+                "Dental insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.part-time.com/job-81",
+            "posting_date": "2023-09-07",
+            "closing_date": "2023-11-13"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "S",
+                "i",
+                "i"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2636",
+        "job_id": 82,
+        "title": "Bioinformatics Scientist",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 142852,
+            "benefits": [
+                "Dental insurance",
+                "Gym membership"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.temporary.com/job-82",
+            "posting_date": "2023-09-07",
+            "closing_date": "2023-11-15"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "c"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2637",
+        "job_id": 83,
+        "title": "E-commerce Data Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 2,
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 109594,
+            "benefits": [
+                "Vision insurance",
+                "Paid time off"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.internship.com/job-83",
+            "posting_date": "2023-09-11",
+            "closing_date": "2023-10-24"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "l"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2638",
+        "job_id": 84,
+        "title": "Machine Learning Engineer",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Machine Learning Engineer at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Excellent communication skills., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 101025,
+            "benefits": [
+                "Parental leave",
+                "Tuition reimbursement",
+                "Gym membership"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.part-time.com/job-84",
+            "posting_date": "2023-09-07",
+            "closing_date": "2023-11-09"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "Q",
+                "S",
+                "L"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2639",
+        "job_id": 85,
+        "title": "Bioinformatics Scientist",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 114158,
+            "benefits": [
+                "Retirement plan",
+                "Health insurance"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.internship.com/job-85",
+            "posting_date": "2023-09-25",
+            "closing_date": "2023-11-08"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "p"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b263a",
+        "job_id": 86,
+        "title": "Data Scientist",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 6,
+        "detailed_description": "The role of a Data Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 67614,
+            "benefits": [
+                "Tuition reimbursement",
+                "Vision insurance",
+                "Parental leave",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-86",
+            "posting_date": "2023-09-02",
+            "closing_date": "2023-10-29"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "i",
+                "t",
+                "g"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b263b",
+        "job_id": 87,
+        "title": "Bioinformatics Scientist",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 52687,
+            "benefits": [
+                "Professional development assistance",
+                "Paid time off",
+                "Health insurance",
+                "Tuition reimbursement",
+                "Gym membership"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.part-time.com/job-87",
+            "posting_date": "2023-09-27",
+            "closing_date": "2023-10-27"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "P"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b263c",
+        "job_id": 88,
+        "title": "Clinical Data Scientist",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 2,
+        "detailed_description": "The role of a Clinical Data Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 133709,
+            "benefits": [
+                "Paid time off",
+                "Health insurance",
+                "Gym membership"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.temporary.com/job-88",
+            "posting_date": "2023-09-07",
+            "closing_date": "2023-11-20"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "R"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b263d",
+        "job_id": 89,
+        "title": "E-commerce Data Analyst",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 6,
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Part-time",
+            "average_salary": 95775,
+            "benefits": [
+                "Professional development assistance",
+                "Tuition reimbursement"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-89",
+            "posting_date": "2023-09-16",
+            "closing_date": "2023-11-19"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "a",
+                "a",
+                "J",
+                "v"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b263e",
+        "job_id": 90,
+        "title": "Bioinformatics Scientist",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 131456,
+            "benefits": [
+                "Tuition reimbursement",
+                "Parental leave",
+                "Vision insurance"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-90",
+            "posting_date": "2023-09-24",
+            "closing_date": "2023-11-07"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "a",
+                "b",
+                "M",
+                "t"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b263f",
+        "job_id": 91,
+        "title": "Investment Data Analyst",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Temporary",
+            "average_salary": 149139,
+            "benefits": [
+                "Professional development assistance",
+                "Tuition reimbursement",
+                "Dental insurance",
+                "Retirement plan",
+                "Gym membership"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.part-time.com/job-91",
+            "posting_date": "2023-09-12",
+            "closing_date": "2023-11-17"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "a",
+                "c"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2640",
+        "job_id": 92,
+        "title": "IT Consultant",
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "years_of_experience": 6,
+        "detailed_description": "The role of a IT Consultant at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 112923,
+            "benefits": [
+                "Professional development assistance",
+                "Gym membership",
+                "Retirement plan"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.part-time.com/job-92",
+            "posting_date": "2023-09-19",
+            "closing_date": "2023-11-15"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "a",
+                "r"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2641",
+        "job_id": 93,
+        "title": "Management Consultant - Data Science",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 3,
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 44946,
+            "benefits": [
+                "Gym membership",
+                "Paid time off"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-93",
+            "posting_date": "2023-09-16",
+            "closing_date": "2023-10-19"
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": [
+                "R"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2642",
+        "job_id": 94,
+        "title": "Investment Data Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 9,
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 162249,
+            "benefits": [
+                "Parental leave",
+                "Vision insurance",
+                "Professional development assistance",
+                "Health insurance",
+                "Tuition reimbursement"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.part-time.com/job-94",
+            "posting_date": "2023-09-15",
+            "closing_date": "2023-11-25"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "h",
+                "n",
+                "g"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2643",
+        "job_id": 95,
+        "title": "Management Consultant - Data Science",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 8,
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 100973,
+            "benefits": [
+                "Dental insurance",
+                "Parental leave",
+                "Health insurance",
+                "Gym membership",
+                "Tuition reimbursement"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.full-time.com/job-95",
+            "posting_date": "2023-10-01",
+            "closing_date": "2023-11-27"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "L",
+                "Q",
+                "S"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2644",
+        "job_id": 96,
+        "title": "Financial Data Scientist",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Internship",
+            "average_salary": 55197,
+            "benefits": [
+                "Professional development assistance",
+                "Parental leave",
+                "Tuition reimbursement"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-96",
+            "posting_date": "2023-09-05",
+            "closing_date": "2023-11-04"
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": [
+                "S",
+                "c",
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2645",
+        "job_id": 97,
+        "title": "Business Technology Analyst",
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "years_of_experience": 4,
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 117249,
+            "benefits": [
+                "Professional development assistance",
+                "Health insurance",
+                "Retirement plan"
+            ],
+            "remote": false,
+            "job_posting_url": "https://jobs.contract.com/job-97",
+            "posting_date": "2023-09-26",
+            "closing_date": "2023-11-01"
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": [
+                "a"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2646",
+        "job_id": 98,
+        "title": "Investment Data Analyst",
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "years_of_experience": 3,
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 105501,
+            "benefits": [
+                "Health insurance",
+                "Dental insurance",
+                "Professional development assistance",
+                "Parental leave",
+                "Gym membership"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.contract.com/job-98",
+            "posting_date": "2023-09-23",
+            "closing_date": "2023-11-24"
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": [
+                "l",
+                "c",
+                "e"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2647",
+        "job_id": 99,
+        "title": "Business Technology Analyst",
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "years_of_experience": 6,
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Excellent communication skills.",
+        "employment_details": {
+            "employment_type": "Full-time",
+            "average_salary": 44474,
+            "benefits": [
+                "Paid time off",
+                "Tuition reimbursement"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.temporary.com/job-99",
+            "posting_date": "2023-09-12",
+            "closing_date": "2023-11-14"
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": [
+                "t"
+            ]
+        }
+    },
+    {
+        "_id": "670fdee5cc35db21f72b2648",
+        "job_id": 100,
+        "title": "Healthcare Data Analyst",
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "years_of_experience": 3,
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "employment_details": {
+            "employment_type": "Contract",
+            "average_salary": 76818,
+            "benefits": [
+                "Parental leave",
+                "Paid time off",
+                "Tuition reimbursement",
+                "Retirement plan",
+                "Gym membership"
+            ],
+            "remote": true,
+            "job_posting_url": "https://jobs.full-time.com/job-100",
+            "posting_date": "2023-09-03",
+            "closing_date": "2023-11-24"
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": [
+                "a",
+                "a",
+                "J",
+                "v"
+            ]
+        }
+    }
+]

@@ -1,0 +1,14 @@
+version: '1.0'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: careerhub-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - C:\\Users\\anani\\OneDrive\\Desktop\\Vanderbilt\\Fall_2024\\NoSQL\\MiniProject2:/ds5760/mongo
+    # environment: # disabling this for class practice only
+    #   MONGO_INITDB_ROOT_USERNAME: root
+    #   MONGO_INITDB_ROOT_PASSWORD: examplepassword
+

@@ -1,0 +1,14 @@
+# Flask and related libraries
+Flask==2.1.1
+pymongo==4.3.3
+bson==0.5.10
+
+# Data manipulation libraries
+pandas==1.4.3
+numpy==1.23.1
+
+# For JSON handling
+jsonlib-python3==1.6.1
+
+# Optional: to handle ObjectId in MongoDB queries smoothly
+dnspython==2.2.1

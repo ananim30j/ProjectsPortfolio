@@ -1,0 +1,3198 @@
+[
+    {
+        "_id": "670fdee4cc35db21f72b2581",
+        "industry_id": 1,
+        "industry_name": "Consulting",
+        "growth_rate": 0.03,
+        "industry_skills": [
+            "S",
+            "c",
+            "a",
+            "l",
+            "a"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2582",
+        "industry_id": 2,
+        "industry_name": "Consulting",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2583",
+        "industry_id": 3,
+        "industry_name": "Finance",
+        "growth_rate": 0.08,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2584",
+        "industry_id": 4,
+        "industry_name": "Finance",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "N",
+            "o",
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2585",
+        "industry_id": 5,
+        "industry_name": "Tech",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "S",
+            "p",
+            "a",
+            "r",
+            "k"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2586",
+        "industry_id": 6,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "M",
+            "a",
+            "c",
+            "h",
+            "i",
+            "n",
+            "e",
+            " ",
+            "L",
+            "e",
+            "a",
+            "r",
+            "n",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2587",
+        "industry_id": 7,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "N",
+            "o",
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2588",
+        "industry_id": 8,
+        "industry_name": "Tech",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "N",
+            "o",
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2589",
+        "industry_id": 9,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "S",
+            "c",
+            "a",
+            "l",
+            "a"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b258a",
+        "industry_id": 10,
+        "industry_name": "Finance",
+        "growth_rate": 0.12,
+        "industry_skills": [
+            "E",
+            "x",
+            "c",
+            "e",
+            "l"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b258b",
+        "industry_id": 11,
+        "industry_name": "Consulting",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b258c",
+        "industry_id": 12,
+        "industry_name": "Finance",
+        "growth_rate": 0.12,
+        "industry_skills": [
+            "S",
+            "t",
+            "a",
+            "t",
+            "i",
+            "s",
+            "t",
+            "i",
+            "c",
+            "s"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b258d",
+        "industry_id": 13,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "R"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b258e",
+        "industry_id": 14,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "H",
+            "a",
+            "d",
+            "o",
+            "o",
+            "p"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b258f",
+        "industry_id": 15,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.08,
+        "industry_skills": [
+            "B",
+            "i",
+            "g",
+            " ",
+            "D",
+            "a",
+            "t",
+            "a"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2590",
+        "industry_id": 16,
+        "industry_name": "Tech",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "J",
+            "a",
+            "v",
+            "a"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2591",
+        "industry_id": 17,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "D",
+            "e",
+            "e",
+            "p",
+            " ",
+            "L",
+            "e",
+            "a",
+            "r",
+            "n",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2592",
+        "industry_id": 18,
+        "industry_name": "Finance",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "M",
+            "a",
+            "t",
+            "l",
+            "a",
+            "b"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2593",
+        "industry_id": 19,
+        "industry_name": "Tech",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "S",
+            "A",
+            "S"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2594",
+        "industry_id": 20,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "E",
+            "x",
+            "c",
+            "e",
+            "l"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2595",
+        "industry_id": 21,
+        "industry_name": "Finance",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "M",
+            "a",
+            "c",
+            "h",
+            "i",
+            "n",
+            "e",
+            " ",
+            "L",
+            "e",
+            "a",
+            "r",
+            "n",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2596",
+        "industry_id": 22,
+        "industry_name": "Finance",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2597",
+        "industry_id": 23,
+        "industry_name": "Consulting",
+        "growth_rate": 0.04,
+        "industry_skills": [
+            "I",
+            "m",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2598",
+        "industry_id": 24,
+        "industry_name": "Finance",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "S",
+            "t",
+            "a",
+            "t",
+            "i",
+            "s",
+            "t",
+            "i",
+            "c",
+            "s"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b2599",
+        "industry_id": 25,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "S",
+            "p",
+            "a",
+            "r",
+            "k"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b259a",
+        "industry_id": 26,
+        "industry_name": "Consulting",
+        "growth_rate": 0.04,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b259b",
+        "industry_id": 27,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "D",
+            "e",
+            "e",
+            "p",
+            " ",
+            "L",
+            "e",
+            "a",
+            "r",
+            "n",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b259c",
+        "industry_id": 28,
+        "industry_name": "Tech",
+        "growth_rate": 0.04,
+        "industry_skills": [
+            "D",
+            "e",
+            "e",
+            "p",
+            " ",
+            "L",
+            "e",
+            "a",
+            "r",
+            "n",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b259d",
+        "industry_id": 29,
+        "industry_name": "Tech",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "S",
+            "p",
+            "a",
+            "r",
+            "k"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b259e",
+        "industry_id": 30,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.12,
+        "industry_skills": [
+            "S",
+            "t",
+            "a",
+            "t",
+            "i",
+            "s",
+            "t",
+            "i",
+            "c",
+            "s"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b259f",
+        "industry_id": 31,
+        "industry_name": "Finance",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "M",
+            "a",
+            "t",
+            "l",
+            "a",
+            "b"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25a0",
+        "industry_id": 32,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.08,
+        "industry_skills": [
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25a1",
+        "industry_id": 33,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25a2",
+        "industry_id": 34,
+        "industry_name": "Tech",
+        "growth_rate": 0.04,
+        "industry_skills": [
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25a3",
+        "industry_id": 35,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "M",
+            "a",
+            "t",
+            "l",
+            "a",
+            "b"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25a4",
+        "industry_id": 36,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "H",
+            "a",
+            "d",
+            "o",
+            "o",
+            "p"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25a5",
+        "industry_id": 37,
+        "industry_name": "Tech",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "N",
+            "o",
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25a6",
+        "industry_id": 38,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "H",
+            "a",
+            "d",
+            "o",
+            "o",
+            "p"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25a7",
+        "industry_id": 39,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.08,
+        "industry_skills": [
+            "S",
+            "A",
+            "S"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25a8",
+        "industry_id": 40,
+        "industry_name": "Finance",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "N",
+            "o",
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25a9",
+        "industry_id": 41,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.08,
+        "industry_skills": [
+            "M",
+            "a",
+            "t",
+            "l",
+            "a",
+            "b"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25aa",
+        "industry_id": 42,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.04,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ab",
+        "industry_id": 43,
+        "industry_name": "Consulting",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "S",
+            "c",
+            "a",
+            "l",
+            "a"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ac",
+        "industry_id": 44,
+        "industry_name": "Consulting",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "S",
+            "c",
+            "a",
+            "l",
+            "a"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ad",
+        "industry_id": 45,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.04,
+        "industry_skills": [
+            "I",
+            "m",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ae",
+        "industry_id": 46,
+        "industry_name": "Tech",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "I",
+            "m",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25af",
+        "industry_id": 47,
+        "industry_name": "Finance",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "M",
+            "a",
+            "t",
+            "l",
+            "a",
+            "b"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25b0",
+        "industry_id": 48,
+        "industry_name": "Finance",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "H",
+            "a",
+            "d",
+            "o",
+            "o",
+            "p"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25b1",
+        "industry_id": 49,
+        "industry_name": "Finance",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "R"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25b2",
+        "industry_id": 50,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25b3",
+        "industry_id": 51,
+        "industry_name": "Consulting",
+        "growth_rate": 0.03,
+        "industry_skills": [
+            "E",
+            "x",
+            "c",
+            "e",
+            "l"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25b4",
+        "industry_id": 52,
+        "industry_name": "Consulting",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "J",
+            "a",
+            "v",
+            "a"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25b5",
+        "industry_id": 53,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "D",
+            "a",
+            "t",
+            "a",
+            " ",
+            "V",
+            "i",
+            "s",
+            "u",
+            "a",
+            "l",
+            "i",
+            "z",
+            "a",
+            "t",
+            "i",
+            "o",
+            "n"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25b6",
+        "industry_id": 54,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "M",
+            "a",
+            "c",
+            "h",
+            "i",
+            "n",
+            "e",
+            " ",
+            "L",
+            "e",
+            "a",
+            "r",
+            "n",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25b7",
+        "industry_id": 55,
+        "industry_name": "Consulting",
+        "growth_rate": 0.08,
+        "industry_skills": [
+            "I",
+            "m",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25b8",
+        "industry_id": 56,
+        "industry_name": "Finance",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "M",
+            "a",
+            "c",
+            "h",
+            "i",
+            "n",
+            "e",
+            " ",
+            "L",
+            "e",
+            "a",
+            "r",
+            "n",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25b9",
+        "industry_id": 57,
+        "industry_name": "Consulting",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "T",
+            "a",
+            "b",
+            "l",
+            "e",
+            "a",
+            "u"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ba",
+        "industry_id": 58,
+        "industry_name": "Consulting",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "M",
+            "a",
+            "c",
+            "h",
+            "i",
+            "n",
+            "e",
+            " ",
+            "L",
+            "e",
+            "a",
+            "r",
+            "n",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25bb",
+        "industry_id": 59,
+        "industry_name": "Finance",
+        "growth_rate": 0.08,
+        "industry_skills": [
+            "R"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25bc",
+        "industry_id": 60,
+        "industry_name": "Consulting",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "E",
+            "x",
+            "c",
+            "e",
+            "l"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25bd",
+        "industry_id": 61,
+        "industry_name": "Finance",
+        "growth_rate": 0.04,
+        "industry_skills": [
+            "J",
+            "a",
+            "v",
+            "a"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25be",
+        "industry_id": 62,
+        "industry_name": "Tech",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "M",
+            "a",
+            "t",
+            "l",
+            "a",
+            "b"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25bf",
+        "industry_id": 63,
+        "industry_name": "Consulting",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "D",
+            "a",
+            "t",
+            "a",
+            " ",
+            "V",
+            "i",
+            "s",
+            "u",
+            "a",
+            "l",
+            "i",
+            "z",
+            "a",
+            "t",
+            "i",
+            "o",
+            "n"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25c0",
+        "industry_id": 64,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.08,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25c1",
+        "industry_id": 65,
+        "industry_name": "Consulting",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "P",
+            "y",
+            "t",
+            "h",
+            "o",
+            "n"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25c2",
+        "industry_id": 66,
+        "industry_name": "Finance",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "B",
+            "i",
+            "g",
+            " ",
+            "D",
+            "a",
+            "t",
+            "a"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25c3",
+        "industry_id": 67,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "M",
+            "a",
+            "t",
+            "l",
+            "a",
+            "b"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25c4",
+        "industry_id": 68,
+        "industry_name": "Finance",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "R"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25c5",
+        "industry_id": 69,
+        "industry_name": "Tech",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "D",
+            "a",
+            "t",
+            "a",
+            " ",
+            "V",
+            "i",
+            "s",
+            "u",
+            "a",
+            "l",
+            "i",
+            "z",
+            "a",
+            "t",
+            "i",
+            "o",
+            "n"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25c6",
+        "industry_id": 70,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "B",
+            "i",
+            "g",
+            " ",
+            "D",
+            "a",
+            "t",
+            "a"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25c7",
+        "industry_id": 71,
+        "industry_name": "Consulting",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "M",
+            "a",
+            "t",
+            "l",
+            "a",
+            "b"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25c8",
+        "industry_id": 72,
+        "industry_name": "Finance",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "D",
+            "e",
+            "e",
+            "p",
+            " ",
+            "L",
+            "e",
+            "a",
+            "r",
+            "n",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25c9",
+        "industry_id": 73,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "P",
+            "y",
+            "t",
+            "h",
+            "o",
+            "n"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ca",
+        "industry_id": 74,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "J",
+            "a",
+            "v",
+            "a"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25cb",
+        "industry_id": 75,
+        "industry_name": "Tech",
+        "growth_rate": 0.03,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25cc",
+        "industry_id": 76,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "R"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25cd",
+        "industry_id": 77,
+        "industry_name": "Consulting",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25ce",
+        "industry_id": 78,
+        "industry_name": "Consulting",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "E",
+            "x",
+            "c",
+            "e",
+            "l"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25cf",
+        "industry_id": 79,
+        "industry_name": "Finance",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "T",
+            "a",
+            "b",
+            "l",
+            "e",
+            "a",
+            "u"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25d0",
+        "industry_id": 80,
+        "industry_name": "Finance",
+        "growth_rate": 0.08,
+        "industry_skills": [
+            "H",
+            "a",
+            "d",
+            "o",
+            "o",
+            "p"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25d1",
+        "industry_id": 81,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25d2",
+        "industry_id": 82,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.03,
+        "industry_skills": [
+            "M",
+            "a",
+            "t",
+            "l",
+            "a",
+            "b"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25d3",
+        "industry_id": 83,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "T",
+            "a",
+            "b",
+            "l",
+            "e",
+            "a",
+            "u"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25d4",
+        "industry_id": 84,
+        "industry_name": "Tech",
+        "growth_rate": 0.1,
+        "industry_skills": [
+            "D",
+            "e",
+            "e",
+            "p",
+            " ",
+            "L",
+            "e",
+            "a",
+            "r",
+            "n",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25d5",
+        "industry_id": 85,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.04,
+        "industry_skills": [
+            "S",
+            "c",
+            "a",
+            "l",
+            "a"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25d6",
+        "industry_id": 86,
+        "industry_name": "Tech",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "S",
+            "A",
+            "S"
+        ],
+        "top_companies": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Amazon",
+            "Microsoft"
+        ],
+        "trends": [
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "5G",
+            "Augmented Reality",
+            "Blockchain"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25d7",
+        "industry_id": 87,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "I",
+            "m",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25d8",
+        "industry_id": 88,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.06,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25d9",
+        "industry_id": 89,
+        "industry_name": "E-commerce",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "T",
+            "a",
+            "b",
+            "l",
+            "e",
+            "a",
+            "u"
+        ],
+        "top_companies": [
+            "Amazon",
+            "eBay",
+            "Shopify",
+            "Walmart",
+            "Alibaba"
+        ],
+        "trends": [
+            "D2C Sales",
+            "Mobile Commerce",
+            "Voice Shopping",
+            "Visual Search",
+            "Localized Shopping"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25da",
+        "industry_id": 90,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "I",
+            "m",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25db",
+        "industry_id": 91,
+        "industry_name": "Finance",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "N",
+            "o",
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25dc",
+        "industry_id": 92,
+        "industry_name": "Consulting",
+        "growth_rate": 0.03,
+        "industry_skills": [
+            "S",
+            "t",
+            "a",
+            "t",
+            "i",
+            "s",
+            "t",
+            "i",
+            "c",
+            "s"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25dd",
+        "industry_id": 93,
+        "industry_name": "Consulting",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "S",
+            "c",
+            "a",
+            "l",
+            "a"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25de",
+        "industry_id": 94,
+        "industry_name": "Finance",
+        "growth_rate": 0.03,
+        "industry_skills": [
+            "S",
+            "Q",
+            "L"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25df",
+        "industry_id": 95,
+        "industry_name": "Consulting",
+        "growth_rate": 0.07,
+        "industry_skills": [
+            "R"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25e0",
+        "industry_id": 96,
+        "industry_name": "Finance",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "E",
+            "x",
+            "c",
+            "e",
+            "l"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25e1",
+        "industry_id": 97,
+        "industry_name": "Consulting",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25e2",
+        "industry_id": 98,
+        "industry_name": "Finance",
+        "growth_rate": 0.05,
+        "industry_skills": [
+            "S",
+            "A",
+            "S"
+        ],
+        "top_companies": [
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "J.P. Morgan",
+            "Bank of America",
+            "Citibank"
+        ],
+        "trends": [
+            "Cryptocurrencies",
+            "Digital Banking",
+            "AI in Finance",
+            "RegTech",
+            "Sustainable Finance"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25e3",
+        "industry_id": 99,
+        "industry_name": "Consulting",
+        "growth_rate": 0.09,
+        "industry_skills": [
+            "B",
+            "i",
+            "g",
+            " ",
+            "D",
+            "a",
+            "t",
+            "a"
+        ],
+        "top_companies": [
+            "Deloitte",
+            "PwC",
+            "EY",
+            "KPMG",
+            "Accenture"
+        ],
+        "trends": [
+            "Remote Work Consulting",
+            "Cybersecurity Consulting",
+            "AI Strategy",
+            "Sustainable Business Models",
+            "Digital Transformations"
+        ]
+    },
+    {
+        "_id": "670fdee4cc35db21f72b25e4",
+        "industry_id": 100,
+        "industry_name": "Healthcare",
+        "growth_rate": 0.11,
+        "industry_skills": [
+            "N",
+            "a",
+            "t",
+            "u",
+            "r",
+            "a",
+            "l",
+            " ",
+            "L",
+            "a",
+            "n",
+            "g",
+            "u",
+            "a",
+            "g",
+            "e",
+            " ",
+            "P",
+            "r",
+            "o",
+            "c",
+            "e",
+            "s",
+            "s",
+            "i",
+            "n",
+            "g"
+        ],
+        "top_companies": [
+            "Pfizer",
+            "Johnson & Johnson",
+            "Roche",
+            "Novartis",
+            "Merck"
+        ],
+        "trends": [
+            "Telemedicine",
+            "AI in Diagnostics",
+            "Personalized Treatment",
+            "Wearable Health Tech",
+            "Biotech Innovations"
+        ]
+    }
+]
